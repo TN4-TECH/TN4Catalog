@@ -11,6 +11,13 @@
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
 
+    // R$1.490,00
+    {
+      title: "(NT0002)  NOTEBOOK LENOVO T440",
+      image: "NT0002.png",
+      text: "💻 NOTEBOOK LENOVO THINKPAD T440\n\n*Processador:* INTEL CORE I5-4300U(4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.490,00* em até 10x sem juros!",
+    },
+
     // R$2.690,00
     {
       title: "Nº1 - (NT0064)NOTEBOOK LENOVO IDEAPAD ",
