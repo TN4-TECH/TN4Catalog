@@ -3,7 +3,7 @@
   import IconCopy from "$lib/icons/copy.svelte";
 
   const intel = [
-    { code: "PO0002", title: "Intel Core I5-3470 (3ªGEN)", price: "R$220,00" },
+    { code: "EG1200", title: "WATER COOLER EVOLUT GLACIAL, 120MM, LED FAN", price: "R$330,00" },
     { code: "PO0133", title: "Intel Core I7-3770 (3ªGEN)", price: "R$570,00" },
     { code: "PO0122", title: "Intel Core I7-4770 (4ªGEN)", price: "R$590,00" },
     { code: "PO0075", title: "Intel Core I3-10100F (10ªGEN)", price: "R$790,00" },
