@@ -9,30 +9,58 @@
     //   text: "*Placa Mãe:* \n*Processador:* Intel i5 de 7ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\nPor apenas *R$1.190,00*em até 10x sem juros!",
     // },
 
-     // R$500,00
-     {
+    // R$500,00
+    {
       title: "Nº1 - (DT00?) HP EliteDesk",
       image: "DT0000.png",
       text: "*Placa Mãe:* \n*Processador:* AMD A4\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n*Fonte:* 200w 80PLUS Platinum\n\nDe ~R$790,00~ Por apenas *R$500,00*em até 10x sem juros!",
     },
 
-     // R$790,00
-     {
-      title: "Nº2 - (DT00?) HP EliteDesk + GT 210",
+    // R$690,00
+    {
+      title: "Nº2(DT0012) DESKTOP LENOVO THINKCENTRE M92P",
+      image: "DT0012.png",
+      text: "*Processador:* INTEL I5-3470 (3ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$690,00*em até 10x sem juros!",
+    },
+
+    // R$790,00
+    {
+      title: "Nº3 - (DT00?) HP EliteDesk + GT 210",
       image: "DT0000.png",
       text: "*Placa Mãe:* \n*Processador:* AMD A4\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n*Placa De Vídeo:* GT 210 1GB\n*Fonte:* 200w 80PLUS Platinum\n\nPor apenas *R$790,00*em até 10x sem juros!",
     },
 
+    // R$690,00
+    {
+      title: "Nº4 - (DT0015) DESKTOP HP ELITEDESK 8300",
+      image: "DT0015.png",
+      text: "*Processador:* INTEL CORE I7-3770 (3ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$890,00*em até 10x sem juros!",
+    },
+
+    // R$690,00
+    {
+      title: "Nº5 - (DT0016) DESKTOP HP ELITEDESK 800 G1",
+      image: "DT0016.png",
+      text: "*Processador:* INTEL I7-4770 (4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$1.090,00*em até 10x sem juros!",
+    },
+
+     // R$1.690,00
+     {
+      title: "Nº6 - (DT0017) DESKTOP LENOVO THINKCENTRE",
+      image: "DT0017.png",
+      text: "*Processador:* INTEL I7-7077 (7ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$1.690,00*em até 10x sem juros!",
+    },
+
     // R$ 1.790,00
     {
-      title: "Nº3 - (DT0087)Lenovo Thinkcentre M910",
+      title: "Nº7 - (DT0087)Lenovo Thinkcentre M910",
       image: "DT0087.png",
       text: "*Placa Mãe:* \n*Processador:* Intel i7 de 6ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Fonte:* 200w 80PLUS Platinum\n\nDe ~R$1.990,00~ Por apenas *R$1.690,00*em até 10x sem juros!",
     },
 
     // R$ 3.590,00
     {
-      title: "Nº4 - (DT00?)Lenovo Thinkcentre + RTX 3050",
+      title: "Nº8 - (DT00?)Lenovo Thinkcentre + RTX 3050",
       image: "DT00.png",
       text: "*Placa Mãe:* \n*Processador:* Intel i7 de 6ª Geração\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Armazenamento:* SSD 240GB\n*Placa De Vídeo:* RTX 3050 6GB Low profile\n*Fonte:* 200w 80PLUS Platinum\n\nPor apenas *R$3.590,00*em até 10x sem juros!",
     },
