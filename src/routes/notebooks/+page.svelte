@@ -34,9 +34,9 @@
 
     // R$1.790,00
     {
-      title: "Nº4 - (NT0057) NOTEBOOK HP 246 G7",
+      title: "Nº4 - (NT0057) NOTEBOOK DELL LATITUDE 3400",
       image: "NT0057.png",
-      text: "💻 NOTEBOOK DELL LATITUDE E7440\n\n*Processador:* INTEL CORE I3-8100U(8ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK DELL LATITUDE 3400\n\n*Processador:* INTEL CORE I3-8100U(8ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
     },
 
     // R$2.490,00
