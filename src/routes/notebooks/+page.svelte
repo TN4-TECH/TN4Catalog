@@ -13,23 +13,58 @@
 
     // R$1.490,00
     {
-      title: "(NT0002)  NOTEBOOK LENOVO T440",
+      title: "Nº1 - (NT0002) NOTEBOOK LENOVO T440",
       image: "NT0002.png",
       text: "💻 NOTEBOOK LENOVO THINKPAD T440\n\n*Processador:* INTEL CORE I5-4300U(4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.490,00* em até 10x sem juros!",
     },
 
-      // R$1.590,00
-      {
-      title: "(NT0054) DELL LATITUDE E7440",
-      image: ".png",
-      text: "💻 DELL LATITUDE E7440\n\n*Processador:* INTEL CORE I5-4310(4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.590,00* em até 10x sem juros!",
+    // R$1.590,00
+    {
+      title: "Nº2 - (NT0054) NOTEBOOK DELL LATITUDE E7440",
+      image: "NT0054.png",
+      text: "💻 NOTEBOOK DELL LATITUDE E7440\n\n*Processador:* INTEL CORE I5-4310U(4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.590,00* em até 10x sem juros!",
+    },
+
+    // R$1.790,00
+    {
+      title: "Nº3 - (NT0056) NOTEBOOK DELL LATITUDE E7440",
+      image: "NT0056.png",
+      text: "💻 NOTEBOOK DELL LATITUDE E7440\n\n*Processador:* INTEL CORE I7-4600U(4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
+    },
+
+    // R$1.790,00
+    {
+      title: "Nº4 - (NT0057) NOTEBOOK HP 246 G7",
+      image: "NT0057.png",
+      text: "💻 NOTEBOOK DELL LATITUDE E7440\n\n*Processador:* INTEL CORE I3-8100U(8ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
+    },
+
+    // R$2.490,00
+    {
+      title: "Nº5 - (NT0043) NOTEBOOK LENOVO THINKPAD T480",
+      image: "NT0043.png",
+      text: "💻 NOTEBOOK DELL LATITUDE E7440\n\n*Processador:* INTEL CORE I5-8550U(8ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.490,00* em até 10x sem juros!",
     },
 
     // R$2.690,00
     {
-      title: "Nº1 - (NT0064)NOTEBOOK LENOVO IDEAPAD ",
+      title: "Nº6 - (NT0064) NOTEBOOK LENOVO IDEAPAD ",
       image: "NT0064.png",
       text: "💻 NOTEBOOK LENOVO IDEAPAD\n\n*Processador:* i7 8ª GERAÇÃO\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\nDE ~R$3.290,00~ POR APENAS *R$2.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    // R$2.890,00
+    {
+      title: "Nº7 - (NT0052) NOTEBOOK LENOVO THINKPAD T480",
+      image: "NT0052.png",
+      text: "💻 NOTEBOOK LENOVO THINKPAD T480\n\n*Processador:* INTEL CORE I7-8750U(8ªGEN)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\nPOR APENAS *R$2.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    // R$2.690,00
+    {
+      title: "Nº8 - (NT0065) NOTEBOOK LENOVO THINKPAD E14",
+      image: "NT0065.png",
+      text: "💻 NOTEBOOK LENOVO THINKPAD E14\n\n*Processador:* INTEL CORE I5 de 10ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\nPOR APENAS *R$3.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
   ];
 
