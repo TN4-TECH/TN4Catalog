@@ -96,7 +96,6 @@
     { code: "VG0053", title: "BIOSTAR RX 550 4GB", price: "R$ 790,00" },
     { code: "VG0073", title: "PCYES RX 570 4GB, 256BITS, GDDR5, PROJETO EDGE", price: "R$ 1.090,00" },
     { code: "VG0013V", title: "MSI GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
-    { code: "VG0000", title: "RX 580 8GB ", price: "R$ 1.290,00" },
     { code: "VG0056", title: "ZOTAC RTX 3050 6GB LOW PROFILE", price: "R$ 1.990,00" },
     { code: "VG0000", title: "RTX 4060 8GB GAINWARD", price: "R$ 2.890,00" },
     { code: "VG0058", title: "MSI RTX 4070 SUPER 12GB", price: "R$ 7.290,00" },
