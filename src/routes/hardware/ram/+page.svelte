@@ -12,7 +12,7 @@
 
   const ddr4 = [
     { code: "ME0012H", title: "KINGSTON BLISTER 8GB 2666MHZ VERDE DDR4", price: "R$190,00" },
-    { code: "ME0041", title: "FNX BLISTER 8GB 3200MHZ PRETA DDR4", price: "R$240,00" },
+    { code: "ME0041", title: "FNX BLISTER 8GB 3200MHZ PRETA DDR4", price: "R$255,00" },
     { code: "ME0027", title: "REDRAGON RAGE 8GB 3200MHZ DDR4", price: "R$260,00" },
     { code: "ME0040", title: "RISE MODE Z BRANCA 8GB 3200MHZ DDR4", price: "R$260,00" },
     { code: "ME0051", title: "HIKSEMI AMOUR U10 8GB 3200MHZ DDR4", price: "R$260,00" },
