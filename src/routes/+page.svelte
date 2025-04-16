@@ -53,11 +53,11 @@
       title: "BLUECASE ERAS FHD 23.8', 100HZ, CURVO  *BRANCO*",
       price: "R$1.290,00",
     },
-    {
-      code: "LC0022",
-      title: "GRASEP LED 23.8'POL., 180HZ, 1MS",
-      price: "R$1.390,00",
-    },
+    //{
+    //  code: "LC0022",
+    //  title: "GRASEP LED 23.8'POL., 180HZ, 1MS",
+    //  price: "R$1.390,00",
+    //},
     {
       code: "LC0078",
       title: "DUEX 32' POL., 75Hz, PLANO",
@@ -79,11 +79,11 @@
       title: "BLUECASE ERAS FHD 27', 100HZ, CURVO  *BRANCO *",
       price: "R$1.690,00",
     },
-    {
-      code: "LC0091",
-      title: "DUEX BLACK 27'POL. LED, 165HZ, 2K",
-      price: "R$1.690,00",
-    },
+    //{
+    //  code: "LC0091",
+    //  title: "DUEX BLACK 27'POL. LED, 165HZ, 2K",
+    //  price: "R$1.690,00",
+    //},
     {
       code: "LC00",
       title: "GRASEP 30'POL. 2K, 100HZ, ULTRAWIDE",
@@ -97,7 +97,7 @@
     { code: "VG0073", title: "PCYES RX 570 4GB, 256BITS, GDDR5, PROJETO EDGE", price: "R$ 1.090,00" },
     { code: "VG0013V", title: "MSI GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
     { code: "VG0056", title: "ZOTAC RTX 3050 6GB LOW PROFILE", price: "R$ 1.990,00" },
-    { code: "VG0056", title: "ZOTAC RTX 3060 12GB", price: "R$ 2.690,00" },
+    { code: "VG0016", title: "ZOTAC RTX 3060 12GB", price: "R$ 2.690,00" },
     { code: "VG0000", title: "RTX 4060 8GB GAINWARD", price: "R$ 2.890,00" },
     { code: "VG0058", title: "MSI RTX 4070 SUPER 12GB", price: "R$ 7.290,00" },
     { code: "VG0071", title: "MSI RTX 5070TI 16GB", price: "R$ 11.900,00" },
