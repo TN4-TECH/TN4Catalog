@@ -17,11 +17,11 @@
       title: "3GREEN 20' POL, LED, 2MS, 75HZ",
       price: "R$630,00",
     },
-    {
-      code: "LC0019",
-      title: "VX PRO 21.5' POL., LED, 60HZ, 8MS",
-      price: "R$690,00",
-    },
+    //{
+    //  code: "LC0019",
+    //  title: "VX PRO 21.5' POL., LED, 60HZ, 8MS",
+    //  price: "R$690,00",
+    //},
     {
       code: "LC0093",
       title: "OFFICE BRIGHT, 24' POL., FULL HD, 5MS",
@@ -58,11 +58,11 @@
     //  title: "GRASEP LED 23.8'POL., 180HZ, 1MS",
     //  price: "R$1.390,00",
     //},
-    {
-      code: "LC0078",
-      title: "DUEX 32' POL., 75Hz, PLANO",
-      price: "R$1.390,00",
-    },
+    //{
+    //  code: "LC0078",
+    //  title: "DUEX 32' POL., 75Hz, PLANO",
+    //  price: "R$1.390,00",
+    //},
     {
       code: "LC0094",
       title: "BLUECASE ARCUS FHD 23.6', 180HZ, CURVO",
