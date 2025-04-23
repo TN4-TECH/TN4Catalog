@@ -10,7 +10,7 @@
 
   const monitors = [
     { code: "LC0032", title: "SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00" },
-    { code: "LC0015", title: "MYMAX 19' POL., ROXO, LED", price: "R$550,00" },
+    { code: "LC0015", title: "MYMAX 19' POL., ROSA, LED", price: "R$550,00" },
     { code: "LC0033", title: "BLUECASE 19' POL. 75Hz", price: "R$570,00" },
     {
       code: "LC0010",
@@ -40,7 +40,7 @@
     },
     {
       code: "LC0066B",
-      title: "GAMER BLUECASE OPTIGAMER PRO 23,8' POL., BRANCO, CURVO, 100HZ, 5MS",
+      title: "BLUECASE OPTIGAMER PRO 23,8' FHD, BRANCO, CURVO, 100HZ",
       price: "R$1.190,00",
     },
     {

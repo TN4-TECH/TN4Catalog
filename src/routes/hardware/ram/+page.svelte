@@ -5,8 +5,18 @@
   const ddr3 = [
     {
       code: "ME0005",
-      title: "KINGSTON BLISTER 8GB 1600MHZ  VERDE DDR3 ",
+      title: "KINGSTON BLISTER 8GB 1600MHZ  VERDE DDR3",
       price: "R$150,00",
+    },
+    {
+      code: "ME0053",
+      title: "MEMORIA 8GB DDR5 ASGARD DDR5",
+      price: "R$380,00",
+    },
+    {
+      code: "ME0046",
+      title: "MEMORIA RAM RISE MODE 16GB, 4800MHZ, DDR5, CL40, PRETO",
+      price: "R$599,00",
     },
   ];
 
