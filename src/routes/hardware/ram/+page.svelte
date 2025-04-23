@@ -10,7 +10,7 @@
     },
     {
       code: "ME0053",
-      title: "MEMORIA 8GB DDR5 ASGARD DDR5",
+      title: "MEMORIA 8GB ASGARD DDR5, 5200MHZ, CL40, BRANCO",
       price: "R$380,00",
     },
     {
