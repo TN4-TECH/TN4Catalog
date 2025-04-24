@@ -8,18 +8,7 @@
       title: "KINGSTON BLISTER 8GB 1600MHZ  VERDE DDR3",
       price: "R$150,00",
     },
-    {
-      code: "ME0053",
-      title: "MEMORIA 8GB ASGARD DDR5, 5200MHZ, CL40, BRANCO",
-      price: "R$380,00",
-    },
-    {
-      code: "ME0046",
-      title: "MEMORIA RAM RISE MODE 16GB, 4800MHZ, DDR5, CL40, PRETO",
-      price: "R$599,00",
-    },
-  ];
-
+  ]
   const ddr4 = [
     { code: "ME0012H", title: "KINGSTON BLISTER 8GB 2666MHZ VERDE DDR4", price: "R$190,00" },
     { code: "ME0041", title: "FNX BLISTER 8GB 3200MHZ PRETA DDR4", price: "R$255,00" },
@@ -51,6 +40,16 @@
     ddr4.forEach((DDR4, i) => {
       finalString +=
         `*${DDR4.title}* por *${DDR4.price}*` + (i + 1 < ddr4.length ? "\n" : "");
+    });
+
+    navigator.clipboard.writeText(finalString);
+  }
+
+  function allDDR5() {
+    var finalString = "Memórias DDR5:\n\n";
+    ddr4.forEach((DDR5, i) => {
+      finalString +=
+        `*${DDR5.title}* por *${DDR5.price}*` + (i + 1 < ddr5.length ? "\n" : "");
     });
 
     navigator.clipboard.writeText(finalString);

@@ -31,17 +31,17 @@
     },
 
     // // R$ 3.490,00
-    // {
-    //   title: "Nº5 - (PC0053) RYZEN 4500 + RX 560",
-    //   image: "PC0053.png",
-    //   text: "*Máquina ideal para Jogos como:* \n 🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB 2666Mhz DDR4 (16GB)\n*Placa de Vídeo:* RX 560 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/3FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS**\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
-    // },
+    {
+      title: "Nº5 - (PC0053) RYZEN 4500 + RX 570 4GB",
+      image: "PC0053.png",
+      text: "*Máquina ideal para Jogos como:* \n 🔫 VALORANT\n🔫 WARZONE\n🔫 CSGO 2\n🦙 FORTNITE\n🚔 GTA 5/RP\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB 2666Mhz DDR4 (16GB)\n*Placa de Vídeo:* RX 570 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/3FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$ 3.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳Cartão - Débito *á vista* ou Crédito em até *10x SEM JUROS**\n❖ Pix á Vista\n❌*NÃO* é possível realizar pagamento via Boleto Bancário",
+    },
 
     // R$ 3.890,00
     {
-      title: "Nº4 - (PC0045) RYZEN 4500 + GTX 1650 4GB",
+      title: "Nº4 - (PC0045) RYZEN 4500 + RX 580 8GB",
       image: "PC0045.png",
-      text: "*Máquina ideal para Jogos como:* \n 💥 FREE FIRE \n 🌎 MINECRAFT \n 🟥 ROBLOX \n🚔 GTA 5/RP\n 🔫 CSGO/VALORANT \n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB (16GB) DDR4\n*Placa de Vídeo:* GTX 1650 4GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM GB1749 C/4 FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$3.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+      text: "*Máquina ideal para Jogos como:* \n 💥 FREE FIRE \n 🌎 MINECRAFT \n 🟥 ROBLOX \n🚔 GTA 5/RP\n 🔫 CSGO/VALORANT \n🦙 FORTNITE\n\n*Processador:* RYZEN 5 4500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB (16GB) DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM GB1749 C/4 FANS RGB\n*Fonte:* 500W\n\nPOR APENAS *R$3.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$ 4.490,00
