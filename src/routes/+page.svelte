@@ -95,7 +95,7 @@
     { code: "VG0039", title: "REVENGER GT 730 4GB", price: "R$ 490,00" },
     { code: "VG0053", title: "BIOSTAR RX 550 4GB", price: "R$ 790,00" },
     { code: "VG0073", title: "PCYES RX 570 4GB, 256BITS, GDDR5, PROJETO EDGE", price: "R$ 1.090,00" },
-    { code: "VG0049", title: "PLACA DE VIDEO DUEX RX 580, 8GB,", price: "R$:1.290,00"}
+    { code: "VG0049", title: "PLACA DE VIDEO DUEX RX 580, 8GB,", price: "R$:1.290,00"},
     { code: "VG0013V", title: "MSI GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
     { code: "VG0056", title: "ZOTAC RTX 3050 6GB LOW PROFILE", price: "R$ 1.990,00" },
     { code: "VG0016", title: "ZOTAC RTX 3060 12GB", price: "R$ 2.690,00" },
