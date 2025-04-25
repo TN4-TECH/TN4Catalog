@@ -43,7 +43,7 @@
     {
       title: "Nº5 - (NT0043) NOTEBOOK LENOVO THINKPAD T480",
       image: "NT0043.png",
-      text: "💻 NOTEBOOK DELL LATITUDE E7440\n\n*Processador:* INTEL CORE I5-8550U(8ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.490,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK LENOVO THINKPAD T480\n\n*Processador:* INTEL CORE I5-8350U(8ªGEN)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.490,00* em até 10x sem juros!",
     },
 
     // R$2.690,00
