@@ -31,13 +31,6 @@
       image: "NT0043.png",
       text: "💻 NOTEBOOK LENOVO THINKPAD T480\n\n*Processador:* INTEL CORE I5-8350U(8ªGEN)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.490,00* em até 10x sem juros!",
     },
-
-    // R$2.690,00
-    {
-      title: "Nº4 - (NT0065) NOTEBOOK LENOVO THINKPAD E14",
-      image: "NT0065.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD E14\n\n*Processador:* INTEL CORE I5 de 10ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n(Acompanha Fonte)\n\nPOR APENAS *R$3.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
   ];
 
   function copyToClipboard(product: { text: string }) {
