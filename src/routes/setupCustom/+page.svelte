@@ -4,21 +4,21 @@
   const products = [
     // R$3.890,00
     {
-      title: "Nº1 - () SETUP GAMER PINK - RYZE 4600G",
+      title: "SETUP GAMER PINK - RYZE 4600G",
       image: "Pink.png",
       text: "*Setup ideal para Jogos como:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CS2\n🔫 WARZONE(GRÁFICOS Médios/Baixos)\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 4600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ 1FAN RGB\n*Fonte:* 500W\n+ 🖥️ Monitor de 21,5' Pol.\n+ Kit Gamer Rosa(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 3.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
     },
 
     // R$4.190,00
     {
-      title: "Nº2 - () SETUP KIDS - RYZEN 5600G",
+      title: "SETUP KIDS - RYZEN 5600G",
       image: "BRANCOALA.png",
       text: "*Setup ideal para Jogos como:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 VALORANT\n🔫 CS2\n🔫 WARZONE (GRÁFICOS Médio/Baixos)\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:*  VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ 4FANS RGB\n*Fonte:* 500W\n+ 🖥️ Monitor de 21,5' Pol.\n+ Kit Gamer (Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 4.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
     },
 
     // R$8.090,00
     {
-      title: "Nº3 - (PC0047) SETUP WHITE Ryzen 5600 + RTX 3050 GALAX 6GB",
+      title: "(PC0047) SETUP WHITE Ryzen 5600 + RTX 3050 GALAX 6GB",
       image: "PC0047.png",
       text: "*Setup ideal para Jogos como:*\n🚘FORZA HORIZON\n🚔 GTA 5/RP\n🔫 WARZONE/BLACK OPS 6\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n\n*Placa Mãe:* DUEX B550ZGS\n*Processador:* RYZEN 5 5600\n*Memória RAM:* 2x8GB DDR4 3200Mhz PCYES UDIMM BRANCA\n*Water Cooler* PCYES SANGE FRIO3 BRANCO 120mm\n*Placa de Vídeo:* RX 580 8GB WHITE\n*Armazenamento:* SSD NVME 512GB\n *Water Cooler:* PCYES SANGE FRIO3 BRANCO 120mm\n*Gabinete:* AEROCOOL AERO ONE BRANCO\n*Fonte:* 500W BRANCA\n+ 🖥️ MONITOR BLUECASE ERAS  23,8' Pol. 100Hz BRANCO CURVO\n+ Kit Gamer EVOLUT LUMINI (Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 8.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
     },
@@ -32,21 +32,21 @@
 
      // R$10.690,00
      {
-      title: "Nº4 - (PC0067) SETUP i5-12400F(12º Gen) + RTX 4060 E GABINETE AQUÁRIO",
+      title: "(PC0067) SETUP i5-12400F(12º Gen) + RTX 4060 E GABINETE AQUÁRIO",
       image: "PC0067.png",
       text: "*Setup ideal para Jogos como:*\n🚘FORZA HORIZON\n🚔 GTA 5/RP\n🔫 CS2\VALORANT\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Placa Mãe:* ASROCK B660M PHANTOM\n*Processador:* I5-12400F(10º GEN)\n*Memória RAM:* 2x8GB DDR4 FURY BEAST 3200MHZ *(16GB)*\n*Placa de Vídeo:* RTX 4060 8GB INNO3D 1X COMPACT\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER AQUÁRIO C/4 FANS RGB\n*Fonte:* 700W 80PLUS\n+ 🖥️ Monitor  PRIMETEK ULTRAWIDE 30' POL, 200HZ\n+ Kit Mecânico PRO DRAXEN (Teclado Mecânico DN201, Mouse DN60, Headset DN103, Mousepad XL)\n\nPOR APENAS *R$10.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
     },
 
     // R$12.790,00
     {
-      title: "Nº5 - (PC00) SETUP GAMER I5-12400F + RTX 4060 8GB PYTHON",
+      title: "(PC00) SETUP GAMER I5-12400F + RTX 4060 8GB PYTHON",
       image: "Custom12790.png",
       text: "*Máquina ideal para Jogos como:* \n 🚘FORZA HORIZON\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:* B760M AOURUS ELITE AX WIFI\n*Memória RAM:* RISE MODE 4800MHZ 16GB DDR5\n*Water Cooler:* KALKAN ALPHA 360MM\n*Placa de Vídeo*: GAINWARD PYTHON RTX 4060 8GB\n*Armazenamento:* SSD NVME PRODRIVE 1TB\n*Gabinete:* KALKAN ALFERN\n*Fonte:* TAICON 700W 80PLUS\n+ 🖥️ Monitor Duex 27'POL. 240HZ\n+ Mouse Gamer Redragon King Pro\n+ Teclado Mecanico Redragon Akali\n+ Suporte P/ Headset Redragon Scepter Elite\n+ Headset Gamer Redragon Mira\n+ Microfone PCYES Vocalizer\n\n*R$ 12.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$13.990,00
     {
-      title: "Nº6 - (PC0011) SETUP RYZEN 5500, 32GB DE RAM DDR4, RTX 3060 TI + KIT PERIFÉRICO STREAMER",
+      title: "(PC0011) SETUP RYZEN 5500, 32GB DE RAM DDR4, RTX 3060 TI + KIT PERIFÉRICO STREAMER",
       image: "PC0011.png",
       text: "*Setup ideal para Jogos como:*\n🚔 GTA 5/RP\n🔫 CS2\VALORANT\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\n🗡 Elden Ring\n\n*Placa Mãe:* ASUS B450M TUF GAMING\n*Processador:* RYZEN 5 5500\n*Memória RAM:* 2x16 REDRAGON SOLAR RGB*(32GB)*\n*Water Cooler* PCYES VISION 240MM C/ VISOR LCD\n*Placa de Vídeo:* RTX 3060TI 3X RGB 8GB\n*Armazenamento:* SSD NVME M.2 500GB\n*Gabinete:* NZXT C/ 2FANS BLACK\n*Fonte:* 700W 80PLUS\n+ Placa PCI-E 2xUSB 3.0\n\n + 🖥️ MONITOR GRASEP GAMER 23,8' 180Hz & MONITOR VX PRO 21,5' 75HZ\n+ SUPORTE P/2 MONITORES MANUAL\n + TECLADO REDRAGON SINDRI\n + MOUSE REDRAGON CENTROPHORUS 2\n + HEADSET REDRAGON CARMEN\n + MOUSEPAD FORTREK SPEED XL\n + MICROFONE REDRAGON BLAZAR\n + WEB CAM PCYES RAZA 1080p \n\nPOR APENAS *R$13.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
     },
@@ -63,14 +63,14 @@
   <a href="/intel">PC</a>
   <h1 class="text-xl font-bold mb-4">⚙️ MÁQUINAS PRONTAS (SETUP)</h1>
   <div class="grid grid-cols-4 gap-8">
-    {#each products as product}
+    {#each products as product, index}
       <div class="space-y-4">
         <img
           src={product.image}
           class="rounded-md w-full h-64 object-contain border border-gray-200 bg-gray-50"
           alt={product.title}
         />
-        <h1 class="font-bold text-xl truncate">{product.title}</h1>
+        <h1 class="font-bold text-xl truncate">Nº{index + 1} - {product.title}</h1>
         <code
           class="font-mono-emoji block w-full h-64 overflow-y-scroll whitespace-pre-line bg-gray-100 border border-gray-300 p-2 rounded"
         >
