@@ -23,11 +23,11 @@
       text: "*Máquina ideal para Jogos como:* \n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\n🗡 Elden Ring\n\n*Processador:* RYZEN 7 3700x\n*Placa Mãe:* B450M GIGABYTE GAMING\n*Memória RAM:* 2x8GB (16GB) REDRAGON RAGE RED DDR4 3200Mhz\n*Placa de Vídeo:* RX 580 8GB\n*Water Cooler:* KALKAN ALPHA 240mm PRETO\n*Armazenamento:* SSD NVME PRODRIVE 500GB\n*Gabinete:* PCYES FORCEFIELD RED MAGMA C/6FANS ARGB\n*Fonte:* GIGABYTE 450W 80PLUS BRONZE\n\nPOR APENAS *R$ 6.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
-    // R$ 6.590,00
+    // R$ 7.690,00
     {
-      title: "PC AQUÁRIO MAGMA RYZEN 7 3700X + RX 580",
-      image: "MAGMA6590.png",
-      text: "*Máquina ideal para Jogos como:* \n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\n🗡 Elden Ring\n\n*Processador:* RYZEN 7 3700x\n*Placa Mãe:* B450M GIGABYTE GAMING\n*Memória RAM:* 2x8GB (16GB) REDRAGON RAGE RED DDR4 3200Mhz\n*Placa de Vídeo:* RX 580 8GB\n*Water Cooler:* KALKAN ALPHA 240mm PRETO\n*Armazenamento:* SSD NVME PRODRIVE 500GB\n*Gabinete:* PCYES FORCEFIELD RED MAGMA C/6FANS ARGB\n*Fonte:* GIGABYTE 450W 80PLUS BRONZE\n\nPOR APENAS *R$ 6.590,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+      title: "",
+      image: ".png",
+      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 ARK (Grâficos Médios/Baixos)\n⚽ EA FC 24\n🔫 VALORANT\n🔫 WARZONE (Grâficos Médios/Baixos)\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 7500F\n*Placa Mãe:* MSI PRO A620M-E AM5\n*Memória RAM:* 2x8GB (16GB) ASGARD DDR5\n*Placa de Vídeo:* RTX 3050 6GB\n*Water Cooler:* KALKAN ALPHA 360MM\n*Armazenamento:* SSD NVME PRODRIVE 500GB\n*Gabinete:* DRAXEN ITHNAN ARGB PRETO\n*Fonte:* 600W THERMALTAKE\n\nPOR APENAS *R$ 7.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$ 8.090,00
