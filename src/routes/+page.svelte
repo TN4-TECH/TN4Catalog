@@ -1,12 +1,38 @@
 <script lang="ts">
   import CopyButton from "$lib/CopyButton.svelte";
   import IconCopy from "$lib/icons/copy.svelte";
+  import { loginAutomatico } from "$lib/api";
+  import { onMount } from "svelte";
+
+  let dadosLogin: any = null;
+  let erroLogin: string = "";
+  let mensagemSucesso: string = "";
+
+  onMount(async () => {
+  try {
+    dadosLogin = await loginAutomatico({
+      login: "api",
+      senha: "4ce081",
+    });
+    if (dadosLogin && dadosLogin.session) {
+      mensagemSucesso = `Login efetuado com sucesso! Session: ${dadosLogin.session}`;
+    }
+  } catch (e) {
+    if (e instanceof Error) {
+      erroLogin = e.message;
+    } else {
+      erroLogin = String(e);
+    }
+    console.error(e);
+  }
+});
+  
 
   let open = false;
 
   function toggle() {
     open = !open;
-  }
+  } 
 
   const monitors = [
     { code: "LC0032", title: "SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00" },
@@ -94,10 +120,22 @@
   const gpus = [
     { code: "VG0039", title: "REVENGER GT 730 4GB", price: "R$ 490,00" },
     { code: "VG0053", title: "BIOSTAR RX 550 4GB", price: "R$ 790,00" },
-    { code: "VG0073", title: "PCYES RX 570 4GB, 256BITS, GDDR5, PROJETO EDGE", price: "R$ 1.090,00" },
-    { code: "VG0049", title: "PLACA DE VIDEO DUEX RX 580, 8GB,", price: "R$ 1.290,00"},
+    {
+      code: "VG0073",
+      title: "PCYES RX 570 4GB, 256BITS, GDDR5, PROJETO EDGE",
+      price: "R$ 1.090,00",
+    },
+    {
+      code: "VG0049",
+      title: "PLACA DE VIDEO DUEX RX 580, 8GB,",
+      price: "R$ 1.290,00",
+    },
     { code: "VG0013V", title: "MSI GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
-    { code: "VG0056", title: "ZOTAC RTX 3050 6GB LOW PROFILE", price: "R$ 1.990,00" },
+    {
+      code: "VG0056",
+      title: "ZOTAC RTX 3050 6GB LOW PROFILE",
+      price: "R$ 1.990,00",
+    },
     { code: "VG0016", title: "ZOTAC RTX 3060 12GB", price: "R$ 2.690,00" },
     { code: "VG0000", title: "RTX 4060 8GB GAINWARD", price: "R$ 2.890,00" },
     { code: "VG0058", title: "MSI RTX 4070 SUPER 12GB", price: "R$ 7.290,00" },
@@ -112,7 +150,8 @@
     var finalString = "🎮 PLACAS DE VÍDEO:\n\n";
     gpus.forEach((gpu, i) => {
       finalString +=
-        `GPU *${gpu.title}* por *${gpu.price}*` + (i + 1 < gpus.length ? "\n" : "");
+        `GPU *${gpu.title}* por *${gpu.price}*` +
+        (i + 1 < gpus.length ? "\n" : "");
     });
 
     navigator.clipboard.writeText(finalString);
@@ -129,34 +168,6 @@
     navigator.clipboard.writeText(finalString);
   }
 </script>
-
-<style>
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: white;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
-    z-index: 1;
-    border-radius: 6px;
-  }
-  .dropdown-content a {
-    padding: 10px;
-    text-decoration: none;
-    display: block;
-    color: black;
-  }
-  .dropdown-content a:hover {
-    background-color: #f1f1f1;
-  }
-  .show {
-    display: block;
-  }
-</style>
 
 <svelte:head>
   <title>TN4-TECH PRODUTOS</title>
@@ -187,9 +198,13 @@
         <a href="hardware/motherboard">Placa Mãe</a>
       </div>
     </div>
-    </div>
+  </div>
 
-  <div><br /><hr /><br /></div>
+  <div>
+    <br />
+    <hr />
+    <br />
+  </div>
 
   <div class="grid grid-cols-2 gap-4 mb-8">
     <div>
@@ -255,3 +270,31 @@
     </div>
   </div>
 </div>
+
+<style>
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 6px;
+  }
+  .dropdown-content a {
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    color: black;
+  }
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+  .show {
+    display: block;
+  }
+</style>
