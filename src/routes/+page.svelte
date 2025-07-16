@@ -15,7 +15,7 @@
       senha: "4ce081",
     });
     if (dadosLogin && dadosLogin.session) {
-      mensagemSucesso = `Login efetuado com sucesso! Session: ${dadosLogin.session}`;
+      console.log(`Login efetuado com sucesso! Session: ${dadosLogin.session}`);
     }
   } catch (e) {
     if (e instanceof Error) {
