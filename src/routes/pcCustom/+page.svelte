@@ -43,6 +43,13 @@
       image: "CUSTOM8190.png",
       text: "*Máquina ideal para Jogos como:* \n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\n🗡 Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B550MX BIOSTAR\n*Memória RAM:* 2x8 HIKSEMI FUTURE BLACK 3200Mhz (16GB) DDR4\n*Placa de Vídeo:* RTX 4060 8GB\n*Water Cooler:* PCYES VISION 240MM C/ VISOR LCD\n*Armazenamento:* SSD NVME PRODRIVE 500GB\n*Gabinete:* GAMER NZXT C/ 2FANS RGB\n*Fonte:* BRIGHT 650W\n\nPOR APENAS *R$ 8.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
+
+    // R$ 14.990,00
+    {
+      title: "(PC0065)PC GAMER RYZEN 5 7500F + RTX 4070",
+      image: "CUSTOM14990.png",
+      text: "*Máquina ideal para Jogos como:* \n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\n🗡 Elden Ring\n\n*Processador:* RYZEN 5 7500F\n*Placa Mãe:* A620M MSI\n*Memória RAM:* 2x8GB (16GB) DDR5 ASGARD 5200Mhz\n*Placa de Vídeo:* RTX 4070 SUPER 12GBn*Armazenamento:* SSD NVME 1TB REDRAGON\n*Gabinete:* ACER V951\n*Fonte:* TAICON 700W 80Plus\n*FANS:* 2x KIT ARGB REVENGER\n*Water Cooler:* PCYES VISION ULTRA\n\nPOR APENAS *R$ 14.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+    },
   ];
 
   function copyToClipboard(product: { text: string }) {
