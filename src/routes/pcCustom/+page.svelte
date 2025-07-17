@@ -9,6 +9,13 @@
       text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* A520 REVENGER\n*Memória RAM:* 2x8(16GB) 3200MHZ FNX DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD NVME 500GB PRODRIVE\n*Gabinete:* 'AQUARIO' NINJA BRANCO C/3 FANS RGB\n*Fonte:* 500W FORTREK\n\nPOR APENAS *R$ 4.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
+    // R$ 4.790,00
+    {
+      title: "PC WHITE 5600GT",
+      image: "CUSTOM4790.png",
+      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600GT\n*Placa Mãe:* B450M DUEX\n*Memória RAM:* 2x8GB(16GB) DDR4 3200MHZ\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Water Cooler:* EVOLUT LUMINI 120MM BRANCO\n*Armazenamento:* SSD 480GB\n*Gabinete:* PCYES FORCEFIELD TWR WHITE GHOST C/6 FANS\n*Fonte:* 500W FORTREK\n\nPOR APENAS *R$ 4.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+    },
+
     // R$ 6.590,00
     {
       title: "PC AQUÁRIO PRETO HAYOM I7 9° GERAÇÃO + GTX 1650",
