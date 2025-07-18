@@ -11,25 +11,11 @@
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
 
-    // R$1.490,00
-    {
-      title: "Nº1 - (NT0002) NOTEBOOK LENOVO T440",
-      image: "NT0002.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD T440\n\n*Processador:* INTEL CORE I5-4300U(4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.490,00* em até 10x sem juros!",
-    },
-
     // R$1.790,00
     {
       title: "Nº2 - (NT0057) NOTEBOOK HP",
       image: "NT0057.png",
       text: "💻 NOTEBOOK HP\n\n*Processador:* INTEL CORE I3-8100U(8ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
-    },
-
-    // R$2.490,00
-    {
-      title: "Nº3 - (NT0043) NOTEBOOK LENOVO THINKPAD T480",
-      image: "NT0043.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD T480\n\n*Processador:* INTEL CORE I5-8350U(8ªGEN)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.490,00* em até 10x sem juros!",
     },
   ];
 
