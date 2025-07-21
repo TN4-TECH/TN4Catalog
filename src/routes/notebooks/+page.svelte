@@ -13,9 +13,30 @@
 
     // R$1.790,00
     {
-      title: "Nº2 - (NT0057) NOTEBOOK HP",
+      title: "(NT0057) NOTEBOOK HP",
       image: "NT0057.png",
       text: "💻 NOTEBOOK HP\n\n*Processador:* INTEL CORE I3-8100U(8ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
+    },
+
+    // R$1.790,00
+    {
+      title: "(NT0059) DELL LATITUDE 5290",
+      image: "NT0059.png",
+      text: "💻 NOTEBOOK DELL LATITUDE 5290\n\n*Processador:* INTEL CORE I5 DE 7ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 128GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
+    },
+
+    // R$2.990,00
+    {
+      title: "(NT0060) HP 240 G7",
+      image: "NT0060.png",
+      text: "💻 NOTEBOOK HP 240 G7\n\n*Processador:* INTEL CORE I5 DE 10ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.990,00* em até 10x sem juros!",
+    },
+
+    // R$3.490,00
+    {
+      title: "(NT0070) LENOVO BS145",
+      image: "NT0070.png",
+      text: "💻 NOTEBOOK LENOVO BS145\n\n*Processador:* INTEL CORE I7 DE 10ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.490,00* em até 10x sem juros!",
     },
   ];
 
@@ -28,14 +49,14 @@
   <a href="/"> ⬅ Home</a>
   <h1 class="text-xl font-bold mb-4">💻 Notebooks</h1>
   <div class="grid grid-cols-4 gap-8">
-    {#each products as product}
+    {#each products as product, index}
       <div class="space-y-4">
         <img
           src={product.image}
           class="rounded-md w-full h-64 object-contain border border-gray-200 bg-gray-50"
           alt={product.title}
         />
-        <h1 class="font-bold text-xl truncate">{product.title}</h1>
+        <h1 class="font-bold text-xl truncate"> Nº{index + 1} - {product.title}</h1>
         <code
           class="font-mono-emoji block w-full h-64 overflow-y-scroll whitespace-pre-line bg-gray-100 border border-gray-300 p-2 rounded"
         >
