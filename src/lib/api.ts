@@ -28,3 +28,26 @@ export async function loginAutomatico({
 
   return await response.json();
 }
+
+export async function buscarProdutos(session: string, filtros: Record<string, string> = {}) {
+  const params = new URLSearchParams(filtros).toString();
+  const url = `/api/produto/${params ? "?" + params : ""}`;
+  const headers = {
+    "Content-Type": "application/json",
+    "charset": "UTF-8",
+    "session": session
+  };
+
+  const response = await fetch(url, {
+    method: "GET",
+    headers,
+  });
+
+  if (!response.ok) {
+    const errorText = await response.text();
+    console.error("Erro ao buscar produtos:", errorText);
+    throw new Error("Falha ao buscar produtos");
+  }
+
+  return await response.json();
+}

@@ -1,38 +1,35 @@
 <script lang="ts">
   import CopyButton from "$lib/CopyButton.svelte";
   import IconCopy from "$lib/icons/copy.svelte";
-  import { loginAutomatico } from "$lib/api";
   import { onMount } from "svelte";
+  import { buscarProdutos } from "$lib/api";
+  import { session } from "$lib/sessionStore";
+  import { get } from "svelte/store";
 
-  let dadosLogin: any = null;
-  let erroLogin: string = "";
-  let mensagemSucesso: string = "";
+  let produtos: any[] = [];
+  let erro = "";
 
   onMount(async () => {
-  try {
-    dadosLogin = await loginAutomatico({
-      login: "api",
-      senha: "4ce081",
-    });
-    if (dadosLogin && dadosLogin.session) {
-      console.log(`Login efetuado com sucesso! Session: ${dadosLogin.session}`);
+    try {
+      const sessaoAtual = get(session); // obtém o valor atual do store
+      if (!sessaoAtual) {
+        erro = "Sessão não encontrada!";
+        return;
+      }
+      produtos = await buscarProdutos(sessaoAtual, {
+        estoque_maior_zero: "true",
+        familia_id: "66",
+      });
+    } catch (e) {
+      erro = e instanceof Error ? e.message : String(e);
     }
-  } catch (e) {
-    if (e instanceof Error) {
-      erroLogin = e.message;
-    } else {
-      erroLogin = String(e);
-    }
-    console.error(e);
-  }
-});
-  
+  });
 
   let open = false;
 
   function toggle() {
     open = !open;
-  } 
+  }
 
   const monitors = [
     { code: "LC0032", title: "SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00" },
@@ -205,6 +202,30 @@
     <hr />
     <br />
   </div>
+
+  {#if erro}
+    <div class="bg-red-100 text-red-800 p-2 rounded mb-4">{erro}</div>
+  {/if}
+
+  {#if produtos.length > 0}
+    <h2>Produtos</h2>
+    <ul>
+      {#each produtos as produto}
+        <li>
+          <strong>{produto.descricao}</strong><br />
+          Preço: R$ {produto.preco}<br />
+          Família: {produto.familia}<br />
+          <img
+            src={produto.imagem_grande}
+            alt="Imagem do produto"
+            width="120"
+          />
+        </li>
+      {/each}
+    </ul>
+  {:else}
+    <div>Nenhum produto encontrado.</div>
+  {/if}
 
   <div class="grid grid-cols-2 gap-4 mb-8">
     <div>
