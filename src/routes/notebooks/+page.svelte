@@ -10,14 +10,7 @@
     //   image: ".png",
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
-
-    // R$1.790,00
-    {
-      title: "(NT0057) NOTEBOOK HP",
-      image: "NT0057.png",
-      text: "💻 NOTEBOOK HP\n\n*Processador:* INTEL CORE I3-8100U(8ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
-    },
-
+    
     // R$1.790,00
     {
       title: "(NT0059) DELL LATITUDE 5290",
