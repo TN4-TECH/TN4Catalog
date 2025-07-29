@@ -16,8 +16,6 @@ export async function loginAutomatico({
   const response = await fetch(url, {
     method: "POST",
     headers,
-    // Não envie body se a API não espera!
-    // body: JSON.stringify({ login, senha }),
   });
 
   if (!response.ok) {

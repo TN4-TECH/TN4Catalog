@@ -5,13 +5,16 @@
   import { buscarProdutos } from "$lib/api";
   import { session } from "$lib/sessionStore";
   import { get } from "svelte/store";
+  import { garantirSessaoValida } from "$lib/sessionManager"; // <-- adicione isto
 
   let produtos: any[] = [];
   let erro = "";
 
   onMount(async () => {
+    await garantirSessaoValida();
+
     try {
-      const sessaoAtual = get(session); // obtém o valor atual do store
+      const sessaoAtual = get(session);
       if (!sessaoAtual) {
         erro = "Sessão não encontrada!";
         return;
@@ -31,6 +34,28 @@
     open = !open;
   }
 
+  $: produtosOrdenados = produtos
+    .filter(
+      (p) =>
+        p.familia &&
+        p.codigo &&
+        p.descricao &&
+        typeof p.preco !== "undefined" &&
+        p.preco !== null
+    )
+    .slice()
+    .sort((a, b) => {
+      const parsePreco = (preco: any) => {
+        if (!preco) return 0;
+        return parseFloat(
+          String(preco)
+            .replace(/[^\d,]/g, "")
+            .replace(".", "")
+            .replace(",", ".")
+        );
+      };
+      return parsePreco(a.preco) - parsePreco(b.preco);
+    });
   const monitors = [
     { code: "LC0032", title: "SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00" },
     { code: "LC0015", title: "MYMAX 19' POL., ROSA, LED", price: "R$550,00" },
@@ -203,30 +228,6 @@
     <br />
   </div>
 
-  {#if erro}
-    <div class="bg-red-100 text-red-800 p-2 rounded mb-4">{erro}</div>
-  {/if}
-
-  {#if produtos.length > 0}
-    <h2>Produtos</h2>
-    <ul>
-      {#each produtos as produto}
-        <li>
-          <strong>{produto.descricao}</strong><br />
-          Preço: R$ {produto.preco}<br />
-          Família: {produto.familia}<br />
-          <img
-            src={produto.imagem_grande}
-            alt="Imagem do produto"
-            width="120"
-          />
-        </li>
-      {/each}
-    </ul>
-  {:else}
-    <div>Nenhum produto encontrado.</div>
-  {/if}
-
   <div class="grid grid-cols-2 gap-4 mb-8">
     <div>
       <div class="flex justify-between items-center mb-4">
@@ -268,17 +269,17 @@
         </CopyButton>
       </div>
       <table class="border border-neutral-300 w-full">
-        {#each gpus as gpu}
+        {#each produtosOrdenados as produto}
           <tr class="border border-neutral-300">
             <th class="text-left border border-neutral-300 p-2 bg-neutral-100"
-              >{gpu.code} | {gpu.title}</th
+              >{produto.codigo} | {produto.descricao}</th
             >
             <td class="p-2 flex justify-between items-center">
-              <span>{gpu.price}</span>
+              <span>R${produto.preco}</span>
               <CopyButton
                 on:click={() =>
                   navigator.clipboard.writeText(
-                    `🎮 *${gpu.title}* por *${gpu.price}*`
+                    `🎮 *${produto.descricao}* por *${produto.preco}}*`
                   )}
                 class="text-white bg-black rounded-sm p-1"
               >
