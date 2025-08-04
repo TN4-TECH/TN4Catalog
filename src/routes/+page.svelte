@@ -40,11 +40,6 @@
       title: "3GREEN 20' POL, LED, 2MS, 75HZ",
       price: "R$630,00",
     },
-    //{
-    //  code: "LC0019",
-    //  title: "VX PRO 21.5' POL., LED, 60HZ, 8MS",
-    //  price: "R$690,00",
-    //},
     {
       code: "LC0093",
       title: "OFFICE BRIGHT, 24' POL., FULL HD, 5MS",
@@ -76,16 +71,6 @@
       title: "BLUECASE ERAS FHD 23.8', 100HZ, CURVO  *BRANCO*",
       price: "R$1.290,00",
     },
-    //{
-    //  code: "LC0022",
-    //  title: "GRASEP LED 23.8'POL., 180HZ, 1MS",
-    //  price: "R$1.390,00",
-    //},
-    //{
-    //  code: "LC0078",
-    //  title: "DUEX 32' POL., 75Hz, PLANO",
-    //  price: "R$1.390,00",
-    //},
     {
       code: "LC0094",
       title: "BLUECASE ARCUS FHD 23.6', 180HZ, CURVO",
@@ -102,11 +87,6 @@
       title: "BLUECASE ERAS FHD 27', 100HZ, CURVO  *BRANCO *",
       price: "R$1.690,00",
     },
-    //{
-    //  code: "LC0091",
-    //  title: "DUEX BLACK 27'POL. LED, 165HZ, 2K",
-    //  price: "R$1.690,00",
-    //},
     {
       code: "LC00",
       title: "GRASEP 30'POL. 2K, 100HZ, ULTRAWIDE",
@@ -118,14 +98,9 @@
     { code: "VG0039", title: "REVENGER GT 730 4GB", price: "R$ 490,00" },
     { code: "VG0053", title: "BIOSTAR RX 550 4GB", price: "R$ 790,00" },
     {
-      code: "VG0073",
-      title: "PCYES RX 570 4GB, 256BITS, GDDR5, PROJETO EDGE",
-      price: "R$ 1.090,00",
-    },
-    {
       code: "VG0049",
       title: "PLACA DE VIDEO DUEX RX 580, 8GB,",
-      price: "R$ 1.290,00",
+      price: "R$ 1.390,00",
     },
     { code: "VG0013V", title: "MSI GTX 1650 4GB VENTUS", price: "R$ 1.290,00" },
     {
@@ -134,7 +109,8 @@
       price: "R$ 1.990,00",
     },
     { code: "VG0016", title: "ZOTAC RTX 3060 12GB", price: "R$ 2.690,00" },
-    { code: "VG0000", title: "RTX 4060 8GB GAINWARD", price: "R$ 2.890,00" },
+    { code: "VG0000", title: "RTX 4060 8GB GAINWARD", price: "R$ 3.190,00" },
+    { code: "VG0066", title: "GAINWARD GHOST RTX 5060, 8GB", price: "R$ 3.590,00" },
     { code: "VG0058", title: "MSI RTX 4070 SUPER 12GB", price: "R$ 7.290,00" },
     { code: "VG0071", title: "MSI RTX 5070TI 16GB", price: "R$ 11.900,00" },
   ];
