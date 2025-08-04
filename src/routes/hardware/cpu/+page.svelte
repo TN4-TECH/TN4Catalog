@@ -17,7 +17,7 @@
 
   const amd = [
     { code: "PO0040", title: "ATHLON 3000G", price: "R$600,00" },
-    { code: "PO0035", title: "AMD Ryzen 5 4500", price: "R$890,00" },
+    { code: "PO0035", title: "AMD Ryzen 5 5500", price: "R$890,00" },
     { code: "PO0058", title: "AMD Ryzen 5 5500", price: "R$990,00" },
     { code: "PO0056B", title: "AMD Ryzen 5 5600G", price: "R$1.250,00" },
     { code: "PO0057B", title: "AMD Ryzen 5 5600", price: "R$1.390,00" },
