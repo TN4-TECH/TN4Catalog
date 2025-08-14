@@ -3,11 +3,11 @@
 
   const products = [
     // R$8.390,00
-    //{
-    //  title: "Nº4 - (PC0068) SETUP i5 de 10º(10400F) + RTX 3050 E GABINETE STORM-Z",
-    //  image: "PC0068.png",
-    //  text: "*Setup ideal para Jogos como:*\n🚔 GTA 5/RP\n\n🔫 CS2\VALORANT\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Placa Mãe:* B560-PRO MSI(LGA 1200)\n*Processador:* I5-10400F(10º GERAÇÃO)\n*Memória RAM:* 2x8GB DDR4 FURY BEAST 3200MHZ *(16GB)*\n*Placa de Vídeo:* RTX 3050 GALAX 6GB\n*Armazenamento:* SSD 480GB\n *AIR Cooler:* REVENGE DUAL FAN RGB \n*Gabinete:* STORM-Z SHARP\n*Fonte:* 500W PFV ATIVO\n+ 🖥️ Monitor  Duex 32' 75hz PLANO Borda Infinita\n+ Kit Mecânico Knup (Teclado Mecânico Switch Azul, Mouse 4800DPI, Headset KP-359, Mousepad XL)\n\nPOR APENAS *R$ 8.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
-    //},
+    {
+     title: "(PC00) SETUP RYZEN 5600GT ROSE",
+     image: "PinkSetup.png",
+     text: "*Setup ideal para Jogos como:*\n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE(GRÁFICOS Médios)\n🔫 CS2\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600GT\n*Memória RAM:* 2x8GB DDR4 *(16GB)*\n*Placa de Vídeo:* VEGA 7 (INTEGRADA)\n*Cooler:* Box Hoopson RGB\n*Armazenamento:* SSD 480GB\n*Gabinete:* MYMAX ROSA LION C/LED RGB\n*Fonte:* 500W\n+ 🖥️ Monitor MYMAX ROSA 21.5' POL.\n+ Kit Gamer Redragon Luluca (Mouse, Teclado, Mousepad e Headset)\n+ Suporte de Headset Redragon Scepter\n\nPOR APENAS *R$ 4.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
+    },
   ]
 
   function copyToClipboard(product: { text: string }) {
