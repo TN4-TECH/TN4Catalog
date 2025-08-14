@@ -11,9 +11,16 @@
 
     // R$7.790,00
     {
-     title: "(PC00) SETUP RYZEN 5600GT ROSE",
+     title: "(PC00) SETUP RYZEN 5500 OFF WHITE",
      image: "SetupOFFWhite.png",
      text: "*Setup ideal para Jogos como:*\n🚔 GTA 5/RP\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Placa Mãe:* B550ZGS DUEX\n*Processador:* RYZEN 5 5500\n*Memória RAM:* 2x8(16GB) 3200MHZ XPG BRANCA DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Cooler:* PCYES FROST PULSE ARGB WHITE GHOST\n*Armazenamento:* SSD NVME 500GB PRODRIVE\n*Gabinete:* 'AQUARIO' NINJA BRANCO C/3 FANS RGB\n*Fonte:* FORTREK BRANCA\n+ 🖥️ Monitor ERAS 23,8POL 100HZ CURVO BRANCO\n+ Kit Gamer KIT GAMER EVOLUT LUMINI (TECLADO, MOUSE E HEADSET) & MOUSEPAD TOMATE 90X40 CINZA\n+SUPORTE DE HEADSET REDRAGON SCEPTER\n\nPOR APENAS *R$ 7.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
+    },
+
+    // R$12.490,00
+    {
+     title: "(PC00) SETUP RYZEN I5 de 12ªGEN BLACK",
+     image: "SetupBlack.png",
+     text: "*Setup ideal para Jogos como:*\n🚘FORZA HORIZON\n🚔 GTA RP\n🔫 CS2/VALORANT\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\N🗡 Elden Ring\n\n*Placa Mãe:* B660M ASROCK\n*Processador:* I5-12400F (12ª Geração)\n*Memória RAM:* 2X 8GB (16GB) REDRAGON SOLAR RGB DDR4 3600MHZ\n*Placa de Vídeo:* ZOTAC RTX 3060 12GB\n*Water Cooler:* KALKAN ALPHA 360MM PRETO\n*Armazenamento:* SSD NVME PRODRIVE 500GB\n*Gabinete:* KALKAN ALFERN\n*Fonte:* TAICON 700W 80PLUS\n+ 🖥️ Monitor TAURUS PRO 23.8POL IPS 180HZ & VX PRO 21.5POL 75HZ\n+ SUPORTE ARTICULADO PARA 2 MONITORES FORTREK\n+ TECLADO MECÂNICO REDRAGON SINDRI\n+ MOUSE REDRAGON STORM ELITE\n+ HEADSET REDRAGON NIREUS\n+ HEADSET REDRAGON NIREUS\n+ MICROFONE CONDENSADOR PCYES VOCALIZER\n+ SOUNDBAR C3TECH MARROM\n+ MOUSEPAD FORTREK DE COURO PREMIUM\n\nPOR APENAS *R$12.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
     },
   ]
 
