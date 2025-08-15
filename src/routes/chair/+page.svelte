@@ -5,7 +5,31 @@
     {
       title: "(CA0057) CADEIRA GAMER DUEX PRETO",
       image: "CA0057.png",
-      text: "*CADEIRA GAMER DUEX PRETO - DX9025BK*\nDecrição: A cadeira Spectrum DX9025BK oferece design sofisticado e conforto máximo. Com encosto de 69 cm e assento de 50 cm, possui apoio de braço ajustável (63-73 cm) e acolchoado. Feita de tecido com espuma de alta densidade, base de nylon e rodas de 50 mm, é regulável em altura e suporta até 120 kg, ideal para uso diário.\n\nEspecificações: \n- Largura do encosto: 50,5 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$790,0000* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+      text: "*CADEIRA GAMER DUEX PRETO - DX9025BK*\n\nEspecificações: \n- Largura do encosto: 50,5 cm\n- Largura do assento: 50,0 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    {
+      title: "(CA0058) CADEIRA GAMER DUEX PRETO/AZUL",
+      image: "CA0058.png",
+      text: "*CADEIRA GAMER DUEX PRETO/AZUL - DX9025BK*\n\nEspecificações: \n- Largura do encosto: 50,5 cm\n- Largura do assento: 50,0 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    {
+      title: "(CA0059)CADEIRA GAMER DUEX PRETO/VERMELHO",
+      image: "CA0059.png",
+      text: "*CADEIRA GAMER DUEX PRETO/VERMELHO - DX9025BK*\n\nEspecificações: \n- Largura do encosto: 50,5 cm\n- Largura do assento: 50,0 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    {
+      title: "(CA0060)CADEIRA GAMER DUEX ROSA/BRANCO",
+      image: "CA0060.png",
+      text: "*CADEIRA GAMER DUEX ROSA/BRANCO - DX9025BK*\n\nEspecificações: \n- Largura do encosto: 50,5 cm\n- Largura do assento: 50,0 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    {
+      title: "(CA0061)CADEIRA GAMER DUEX BRANCO/PRETO",
+      image: "CA0061.png",
+      text: "*CADEIRA GAMER DUEX BRANCO/PRETO - DX9025BK*\n\nEspecificações: \n- Largura do encosto: 50,5 cm\n- Largura do assento: 50,0 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
   ];
 
