@@ -37,6 +37,12 @@
       image: "CA0049.png",
       text: "*CADEIRA GAMER DUEX BRANCO/PRETO - DX9025BK*\n\nEspecificações: \n- Altura do encosto (cm): 85CM \n- Largura do assento: Interna 34 / Externa 53\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
+
+    {
+      title: "(CA0037) CADEIRA GAMER MX7 PRETO/ROSA",
+      image: "CA0037.png",
+      text: "*CADEIRA GAMER DUEX BRANCO/PRETO - DX9025BK*\n\nEspecificações: \n- Altura do encosto (cm): 82CM \n- Largura do Interna: 34CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
   ];
 
   function copyToClipboard(product: { text: string }) {
