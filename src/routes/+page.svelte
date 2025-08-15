@@ -112,6 +112,8 @@
     <span> | </span>
     <a href="/intel">🔹Intel🔹</a>
     <span> | </span>
+    <a href="/chair">🪑 Cadeiras</a>
+    <span> | </span>
     <a href="/setup">⌨🖱 Setup Completo</a>
     <span> | </span>
     <a href="/setupCustom">🖌 Setup Personalizado</a>
