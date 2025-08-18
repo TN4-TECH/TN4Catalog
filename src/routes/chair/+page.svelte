@@ -5,7 +5,7 @@
     {
       title: "(CA0057) CADEIRA GAMER DUEX PRETO",
       image: "CA0057.png",
-      text: "*CADEIRA GAMER DUEX PRETO - DX9025BK*\n\nEspecificações: \n- Largura do encosto: 50,5 cm\n- Largura do assento: 50,0 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+      text: "*CADEIRA GAMER DUEX PRETO - DX9025BK*\n\nEspecificações: \n- Altura do encosto: \n- Largura do encosto: 50,5 cm\n- Largura do assento: 50,0 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     {
@@ -54,6 +54,12 @@
       title: "(CA0045) CADEIRA GAMER MYMAX MX15 PRETO/AZUL",
       image: "CA0045.png",
       text: "*CADEIRA GAMER MYMAX MX15 PRETO/AZUL*\n\nEspecificações: \n- Altura do encosto (cm): 89CM \n- Largura do Assento: Interna: 32CM, Externa: 51cm\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    {
+      title: "(CA0055) CADEIRA GAMER PCYES MAD RACER V8 TURBO AMARELA",
+      image: "CA0055.png",
+      text: "*CADEIRA GAMER PCYES MAD RACER V8 TURBO AMARELA*\n\nEspecificações: \n- Altura do encosto (cm): 89CM \n- Largura do Assento: Interna: 37CM, Externa: 58cm\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 120kg\n\nPor apenas *R$1.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
   ];
 
