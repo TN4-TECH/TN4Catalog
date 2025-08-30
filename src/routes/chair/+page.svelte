@@ -56,11 +56,11 @@
       text: "*CADEIRA GAMER DRAXEN DN2 PRETO/AZUL CELESTE*\n\nEspecificações: \n- Altura do encosto (cm): 83CM \n- Largura do Interna: 52CM\n- Materiais: Enchimento e Espuma e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
-    // {
-    //   title: "(CA00)",
-    //   image: "CA00.png",
-    //   text: "*CADEIRA GAMER MYMAX MX8 PRETO/AZUL*\n\nEspecificações: \n- Altura do encosto (cm): 82CM \n- Largura do Interna: 34CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    // },
+    {
+      title: "(CA0063) CADEIRA GAMER MYMAX MX5 PRETO/VERMELHO",
+      image: "CA0063.png",
+      text: "*CADEIRA GAMER MYMAX MX5 PRETO/VERMELHO*\n\nEspecificações: \n- Altura do encosto (cm): 83CM \n- Largura do Interna: 34CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
 
     // {
     //   title: "(CA00)",
