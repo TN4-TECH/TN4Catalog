@@ -18,18 +18,18 @@
       text: "💻 NOTEBOOK DELL LATITUDE 5290\n\n*Processador:* INTEL CORE I5 DE 7ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 128GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
     },
 
-    // R$2.990,00
-    {
-      title: "(NT0060) HP 240 G7",
-      image: "NT0060.png",
-      text: "💻 NOTEBOOK HP 240 G7\n\n*Processador:* INTEL CORE I5 DE 10ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.990,00* em até 10x sem juros!",
-    },
-
     // R$3.490,00
     {
       title: "(NT0070) LENOVO BS145",
       image: "NT0070.png",
       text: "💻 NOTEBOOK LENOVO BS145\n\n*Processador:* INTEL CORE I7 DE 10ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.490,00* em até 10x sem juros!",
+    },
+
+    // R$3.490,00
+    {
+      title: "(NT00) NOTEBOOK DELL LATITUDE 5430",
+      image: "NT00.png",
+      text: "💻 NOTEBOOK DELL LATITUDE 5430\n\n*Processador:* INTEL CORE I7 DE 11ªGEN\n*Memória RAM:* 16GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.490,00* em até 10x sem juros!",
     },
   ];
 
