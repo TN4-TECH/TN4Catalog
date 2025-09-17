@@ -48,7 +48,6 @@
     { code: "LC0096", title: "MONITOR GAMER BLUECASE ERAS 23.8' POL., 100HZ, PRETO, CURVO", price: "R$1.190,00"},
     { code: "LC0095", title: "MONITOR GAMER BLUECASE ERAS 23.8' POL., 100HZ, BRANCO, CURVO", price: "R$1.290,00"},
     { code: "LC0078", title: "MONITOR GAMER BLUECASE ERAS 23.8' POL., 100HZ, BRANCO, CURVO", price: "R$1.390,00", },
-
     { code: "LC0107", title: "MONITOR ACER NITRO KG1 180HZ", price: "R$1.390,00", },
     { code: "LC0094", title: "MONITOR GAMER BLUECASE ARCUS 23.8' POL CURVO, 180HZ", price: "R$1.490,00", },
     { code: "LC0085", title: "MONITOR GAMER BLUECASE TAURUS 23,8, IPS, 180HZ", price: "R$1.450,00", },
@@ -65,9 +64,10 @@
     { code: "VG0053", title: "GTX 750TI 2GB", price: "R$ 890,00" },
     { code: "VG0067", title: "RX 580 8GB", price: "R$1.390,00" },
     { code: "VG0070", title: "GAINWARD RTX 3050 6GB", price: "R$1.990,00" },
-    { code: "VG0016", title: "RX 6600 8GB CHALLENGER", price: "R$ 2.490,00" },
+    { code: "VG0069", title: "RX 6600 8GB CHALLENGER", price: "R$ 2.490,00" },
     { code: "VG0016", title: "ZOTAC RTX 3060 12GB", price: "R$ 2.590,00" },
-    { code: "VG0000", title: "RTX 4060 ZOTAC WHITE", price: "R$ 3.290,00" },
+    { code: "VG0079", title: "ASUS RADEON RX 7600 8GB", price: "R$ 2.790,00" },
+    { code: "VG0077", title: "RTX 4060 ZOTAC WHITE", price: "R$ 3.290,00" },
     { code: "VG0066", title: "GAINWARD GHOST RTX 5060, 8GB", price: "R$ 3.590,00" },
     { code: "VG0058", title: "MSI RTX 4070 SUPER 12GB", price: "R$ 7.290,00" },
     { code: "VG0071", title: "MSI RTX 5070TI 16GB", price: "R$ 11.900,00" },
@@ -129,6 +129,7 @@
         <a href="hardware/ram">Memória RAM</a>
         <a href="hardware/watercooler">Watercooler</a>
         <a href="hardware/motherboard">Placa Mãe</a>
+        <a href="hardware/cabinet">Gabinetes</a>
       </div>
     </div>
   </div>
