@@ -20,13 +20,6 @@
 
     // R$3.490,00
     {
-      title: "(NT0070) LENOVO BS145",
-      image: "NT0070.png",
-      text: "💻 NOTEBOOK LENOVO BS145\n\n*Processador:* INTEL CORE I7 DE 10ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.490,00* em até 10x sem juros!",
-    },
-
-    // R$3.490,00
-    {
       title: "(NT00) NOTEBOOK DELL LATITUDE 5430",
       image: "LATI5430.png",
       text: "💻 NOTEBOOK DELL LATITUDE 5430\n\n*Processador:* INTEL CORE I7 DE 11ªGEN\n*Memória RAM:* 16GB DDR4\n*Armazenamento:* SSD 256GB\n(Acompanha Fonte)\n\n*POR APENAS R$3.490,00* em até 10x sem juros!",
