@@ -32,8 +32,8 @@
   }
 
   const monitors = [
-    { code: "LC0032", title: "SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00"},
-    { code: "LC0015", title: "MYMAX 19' POL., ROSA, LED", price: "R$550,00"},
+    { code: "LC0032", title: "MONITOR SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00"},
+    { code: "LC0015", title: "MONITOR MYMAX 19' POL., ROSA, LED", price: "R$550,00"},
     { code: "LC0081", title: "MONITOR VX PRO 19' POL", price: "R$550,00"},
     { code: "LC0108", title: "MONITOR VX PRO 21.5' POL., LED, 60HZ", price: "R$650,00"},
     { code: "LC0038", title: "MONITOR BLUECASE 21.5' BRANCO, LED, 75Hz", price: "R$700,00"},
@@ -55,7 +55,9 @@
     { code: "LC0087", title: "MONITOR GAMER BLUECASE TAURUS PRO 23.8, IPS, 180HZ", price: "R$1.550,00", },
     { code: "LC0097", title: "MONITOR GAMER BLUECASE ERAS 27' POL., PRETO, CURVO 100HZ", price: "R$1.590,00", },
     { code: "LC0098", title: "MONITOR GAMER BLUECASE ERAS 27' POL., BRANCO, CURVO 100HZ", price: "R$1.690,00", },
-    { code: "LC0082", title: "GRASEP 30'POL. 2K, 100HZ, ULTRAWIDE", price: "R$1.890,00", },
+    { code: "LC0082", title: "MONITOR GRASEP 30'POL. 2K, 100HZ, ULTRAWIDE", price: "R$1.890,00", },
+    { code: "LC0118", title: "MONITOR GAMER DUEX FLY 32' POL, PRO GAMER, 240HZ, CURVO", price: "R$1.990,00", },
+    { code: "LC0117", title: "MONITOR GAMER DUEX ULTRAWIDE, 34' POL., 180HZ", price: "R$2.890,00", },
   ];
 
   const gpus = [
