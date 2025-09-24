@@ -25,7 +25,7 @@
     
     //R$339,99
     {
-      title: "(GB0139) GABINETE GAMER AEROCOOL SHARD",
+      title: "(GB0139) GABINETE GAMER AEROCOOL SHARD, PRETO",
       image: "GB0139.png",
       text: "*GABINETE GAMER AEROCOOL SHARD*\n\nEspecificações: \n- Marca: AEROCOOL\n - Modelo: Shard RGB - 679890\n - Cor: Preto\n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 194 x 444 x 423.5mm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$399,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
@@ -39,14 +39,14 @@
     
     //R$390,00
     {
-      title: "(GB0165) GABINETE GAMER AEROCOOL DELTA",
+      title: "(GB0165) GABINETE GAMER AEROCOOL DELTA, PRETO",
       image: "GB0165.png",
       text: "* GABINETE GAMER AEROCOOL DELTA*\n\nEspecificações: \n- Marca: AEROCOOL\n - Modelo: Delta-G-BK-v1\n - Cor: Preto\n - Materiais: SPCC\n - Painel lateral: Vidro Temperado \n - Dimensões: 197 x 431 x 357 mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$390,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
     
     //R$399,99
     {
-      title: "(GB0114) GABINETE GAMER DRAXEN ITHNAN ARGB PRETO",
+      title: "(GB0114) GABINETE GAMER DRAXEN ITHNAN ARGB, PRETO",
       image: "GB0114.png",
       text: "*GABINETE GAMER DRAXEN ITHNAN ARGB PRETO*\n\nEspecificações: \n- Marca: DRAXEN\n - Modelo: DCA-SM-ITHNAN02/BK\n - Cor: Preto\n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 215 x 465 x 410 mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$399,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
@@ -67,21 +67,21 @@
 
     //R$439,90
     {
-      title: "(GB0167) GABINETE GAMER AEROCOOL MECHA",
+      title: "(GB0167) GABINETE GAMER AEROCOOL MECHA, PRETO",
       image: "GB0167.png",
       text: "*GABINETE GAMER AEROCOOL MECHA*\n\nEspecificações: \n- Marca: AEROCOOL\n - Modelo: MECHA RGB - 72998\n - Cor: Preto\n - Materiais: Aço e Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 200 x 430 x 305mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \N - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$439,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     //R$449,99
     {
-      title: "(GB0036) GABINETE GAMER FORTREK BLACK HAWK",
+      title: "(GB0036) GABINETE GAMER FORTREK BLACK HAWK, PRETO",
       image: "GB0036.png",
       text: "*GABINETE GAMER FORTREK BLACK HAWK*\n\nEspecificações: \n- Marca: FORTREK\n - Modelo: BLACK HAWK\n - Cor: Preto\n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 375 x 215 x 439mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$449,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
       
     //R$479,99
     {
-      title: "(GB0148) GABINETE GAMER KALKAN MUSPEL",
+      title: "(GB0148) GABINETE GAMER KALKAN MUSPEL, PRETO",
       image: "GB0148.png",
       text: "*GABINETE GAMER KALKAN MUSPEL*\n\nEspecificações: \n- Marca: KALKAN\n - Modelo: MUSPEL\n - Cor: Preto\n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 305 x 435 x 192 mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$479,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
@@ -95,7 +95,7 @@
 
     //R$499,99
     {
-      title: "(GB0162) GABINETE GAMER REDRAGON DEFLECT",
+      title: "(GB0162) GABINETE GAMER REDRAGON DEFLECT, PRETO",
       image: "GB0162.png",
       text: "*GABINETE GAMER REDRAGON DEFLECT*\n\nEspecificações: \n- Marca: REDRAGON\n - Modelo: CRUISER\n - Cor: Preto\n - Materiais: Aço SPCC \n - Painel lateral: Vidro Temperado \n - Dimensões: 425 x 212 x 470 mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$499,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
@@ -109,14 +109,14 @@
 
     //R$535,99
     {
-      title: "(GB0060) GABINETE GAMER AEROCOOL AERO ONE MINI BR",
+      title: "(GB0060) GABINETE GAMER AEROCOOL AERO ONE MINI BR, PRETO",
       image: "GB0060.png",
       text: "*GABINETE GAMER AERO ONE MINI BR*\n\nEspecificações: \n- Marca: AEROCOOL \n - Modelo: TRINITY MINI\n - Cor: Preto\n - Materiais: ABS + malha preta; \n - Painel lateral: Vidro Temperado \n - Dimensões:375 x 215 x 439mm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$499,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     //R$539,99
     {
-      title: "(GB0160) GABINETE GAMER COOLER MASTER MASTERBOX Q300L",
+      title: "(GB0160) GABINETE GAMER COOLER MASTER MASTERBOX Q300L, PRETO",
       image: "GB0160.png",
       text: "*GABINETE GAMER COOLER MASTER MASTERBOX Q300L*\n\nEspecificações: \n- Marca: Cooler Master \n - Modelo: MCB-Q300L-KANN-S00 \n - Cor: Preto \n - Materiais: Aço, Plástico \n - Painel lateral: Acrílico \n - Dimensões: 387 x 230 x 378 mm \n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$539,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
@@ -124,28 +124,28 @@
 
     //R$549,99
     {
-      title: "(GB0173) GABINETE GAMER DRAXEN THALATHA ARGB BRANCO - DCA-SM-THALA5/WH",
+      title: "(GB0173) GABINETE GAMER DRAXEN THALATHA ARGB, BRANCO",
       image: "GB0173.png",
       text: "*GABINETE GAMER DRAXEN THALATHA ARGB BRANCO*\n\nEspecificações: \n- Marca: DRAXEN\n - Modelo: DCA-SM-THALA5/WH\n - Cor: Branco\n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 495 x 210 x 485 mm\n - Slots: 8 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$549,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     //R$549,99
     {
-      title: "(GB0117) GABINETE GAMER DRAXEN THALATHA ARGB PRETO - DCA-SM-THALA5/BK",
+      title: "(GB0117) GABINETE GAMER DRAXEN THALATHA ARGB, PRETO",
       image: "GB0117.png",
       text: "*GABINETE GAMER DRAXEN THALATHA ARGB BRANCO*\n\nEspecificações: \n- Marca: DRAXEN\n - Modelo: DCA-SM-THALA5/BK\n - Cor: Preto\n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 495 x 210 x 485 mm\n - Slots: 8 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$549,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     //R$569,99
     {
-      title: "(GB0007) GABINETE REDRAGON AEROGLASS",
+      title: "(GB0007) GABINETE REDRAGON AEROGLASS, PRETO",
       image: "GB0007.png",
       text: "*GABINETE REDRAGON AEROGLASS*\n\nEspecificações: \n- Marca: Redragon\n - Modelo: CA-602B\n - Cor: Preto\n - Materiais: Aço SGCC e Painel de Mesh \n - Painel lateral: Vidro Temperado \n - Dimensões: 525mm x 290 mm x 525 mm \n - Slots: 7 + 2 verticais \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n - E-ATX \n\nPor apenas *R$569,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     //R$589,99
     {
-      title: "(GB0145) GABINETE GAMER THERMALTAKE S100TG",
+      title: "(GB0145) GABINETE GAMER THERMALTAKE S100TG, PRETO",
       image: "GB0145.png",
       text: "*GABINETE GAMER THERMALTAKE S100TG*\n\nEspecificações: \n- Marca: THERMALTAKE\n - Modelo: CA-3Q9-60S1WZ-00\n - Cor: Preto\n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 411 x 220 x 441 mm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$589,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
@@ -159,7 +159,7 @@
 
     //R$599,99
     {
-      title: "(GB0153) GABINETE AQUÁRIO EVOLUT MIZU, BRANCO",
+      title: "(GB0153) GABINETE AQUARIO EVOLUT MIZU, BRANCO",
       image: "GB0153.png",
       text: "*GABINETE AQUÁRIO EVOLUT MIZU, BRANCO*\n\nEspecificações: \n- Marca: EVOLUT\n - Modelo: EG824\n - Cor: Branco\n - Materiais: Vidro Temperado Frontal, Aço \n - Painel lateral: Vidro Temperado \n - Dimensões: 33,9 x 27,6 x 33 cm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$599,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
