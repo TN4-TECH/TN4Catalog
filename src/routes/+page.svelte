@@ -32,9 +32,13 @@
   }
 
   const monitors = [
+    { code: "LC0121", title: "MONITOR HAYOM 15,4' POL, VGA, HDMI, PRETO", price: "R$349,99"},
     { code: "LC0032", title: "MONITOR SEMINOVO 19' POL. *SORTIDO*", price: "R$390,00"},
+    { code: "LC0016", title: "MONITOR HAYOM 17.1, VGA, HDMI, PRETO", price: "R$439,90"},
+    { code: "LC0111", title: "MONITOR MNBOX 18.5' POL, LED - D-MN185 ", price: "R$490,00"},
     { code: "LC0015", title: "MONITOR MYMAX 19' POL., ROSA, LED", price: "R$550,00"},
     { code: "LC0081", title: "MONITOR VX PRO 19' POL", price: "R$550,00"},
+    { code: "LC0120", title: "MONITOR MNBOX 20' POL, LED ", price: "R$590,00"},
     { code: "LC0108", title: "MONITOR VX PRO 21.5' POL., LED, 60HZ", price: "R$650,00"},
     { code: "LC0038", title: "MONITOR BLUECASE 21.5' BRANCO, LED, 75Hz", price: "R$700,00"},
     { code: "LC0084", title: "MONITOR MYMAX 21,5' POL. ROSA, FULL HD", price: "R$790,00"},
@@ -47,10 +51,12 @@
     { code: "LC0066B",title: "MONITOR BLUECASE OPTIGAMER PRO 23,8' BRANCO, CURVO, 100HZ", price: "R$1.190,00"},
     { code: "LC0096", title: "MONITOR GAMER BLUECASE ERAS 23.8' POL., 100HZ, PRETO, CURVO", price: "R$1.190,00"},
     { code: "LC0095", title: "MONITOR GAMER BLUECASE ERAS 23.8' POL., 100HZ, BRANCO, CURVO", price: "R$1.290,00"},
+    { code: "LC0101", title: "MONITOR GRASEP LED 24.5', 180HZ, 1MS", price: "R$1.290,00"},
     { code: "LC0078", title: "MONITOR GAMER BLUECASE ERAS 23.8' POL., 100HZ, BRANCO, CURVO", price: "R$1.390,00", },
     { code: "LC0107", title: "MONITOR ACER NITRO KG1 180HZ", price: "R$1.390,00", },
-    { code: "LC0094", title: "MONITOR GAMER BLUECASE ARCUS 23.8' POL CURVO, 180HZ", price: "R$1.490,00", },
     { code: "LC0085", title: "MONITOR GAMER BLUECASE TAURUS 23,8, IPS, 180HZ", price: "R$1.450,00", },
+    { code: "LC0094", title: "MONITOR GAMER BLUECASE ARCUS 23.8' POL CURVO, 180HZ", price: "R$1.490,00", },
+    { code: "LC0103", title: "MONITOR GRASEP LED 27', 100HZ, 1MS", price: "R$1.490,00", },
     { code: "LC0103", title: "MONITOR GRASEP LED 27', 100HZ 1MS", price: "R$1.490,00", },
     { code: "LC0087", title: "MONITOR GAMER BLUECASE TAURUS PRO 23.8, IPS, 180HZ", price: "R$1.550,00", },
     { code: "LC0097", title: "MONITOR GAMER BLUECASE ERAS 27' POL., PRETO, CURVO 100HZ", price: "R$1.590,00", },
@@ -145,7 +151,7 @@
   {#if erro}
     <div class="bg-red-100 text-red-800 p-2 rounded mb-4">{erro}</div>
   {/if}
-  
+
 <!-- 
   {#if produtos.length > 0}
     <h2>Produtos</h2>
