@@ -50,7 +50,7 @@
     {#each products as product, index}
       <div class="space-y-4">
         <img
-          src={product.image}
+          src={"/" + product.image}
           class="rounded-md w-full h-64 object-contain border border-gray-200 bg-gray-50"
           alt={product.title}
         />
