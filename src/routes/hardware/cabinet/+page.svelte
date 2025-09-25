@@ -58,6 +58,13 @@
       text: "*GABINETE GAMER GAMDIAS AURA GC7 WH, BRANCO*\n\nEspecificações: \n- Marca: GAMDIAS\n - Modelo: AURA GC7 WH ARGB\n - Cor: Preto\n - Materiais: Aço SPCC, Plástico ABS\n - Painel lateral: Vidro Temperado \n - Dimensões: 350 x 188 x 430 mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$419,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
+    //R$419,99
+    {
+      title: "(GB0128) GABINETE GAMER HAYOM, PRETO - GB1713",
+      image: "GB0128.png",
+      text: "*GABINETE GAMER HAYOM, PRETO*\n\nEspecificações: \n- Marca: HAYOM\n - Modelo: GB1713\n - Cor: Preto\n - Materiais: Aço E Plástico\n - Painel lateral: Vidro Temperado \n - Dimensões: 330 x 180 x 425 mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$419,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
     //R$434,99
     {
       title: "(GB0059) GABINETE GAMER AEROCOOL TRINITY MINI ROSA V1",
