@@ -69,7 +69,7 @@
     {
       title: "(GB0014) GABINETE GAMER HAYOM C/3 FANS, RGB, PRETO - GB1710",
       image: "GB0014.png",
-      text: "*GABINETE GAMER HAYOM C/3 FANS, RGB, PRETO - GB1710*\n\nEspecificações: \n- Marca: HAYOM\n - Modelo: GB1710\n - Cor: Preto\n - Materiais: Aço e Plástico\n - Painel lateral: Vidro Temperado \n - Dimensões:  380 x 200 x 460 mm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$429,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+      text: "*GABINETE GAMER HAYOM C/3 FANS, RGB, PRETO - GB1710*\n\nEspecificações: \n- Marca: HAYOM\n - Modelo: GB1710\n - Cor: Preto\n - Materiais: Aço e Plástico\n - Painel lateral: Vidro Temperado \n - Dimensões:  380 x 200 x 460 mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$429,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     //R$434,99
