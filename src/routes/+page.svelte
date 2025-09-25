@@ -145,7 +145,8 @@
   {#if erro}
     <div class="bg-red-100 text-red-800 p-2 rounded mb-4">{erro}</div>
   {/if}
-
+  
+<!-- 
   {#if produtos.length > 0}
     <h2>Produtos</h2>
     <ul>
@@ -164,7 +165,7 @@
     </ul>
   {:else}
     <div>Nenhum produto encontrado.</div>
-  {/if}
+  {/if} -->
 
   <div class="grid grid-cols-2 gap-4 mb-8">
     <div>
