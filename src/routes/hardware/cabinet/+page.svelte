@@ -9,6 +9,20 @@
       text: "*GABINETE GAMER EVOLUT LOTUS ROSA - EG816 *\n\nEspecificações: \n- Marca: EVOLUT\n - Modelo: LOTUS - EG-816\n - Cor: Rosa \n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 285 x 198 x 280mm\n - Slots: 4 \n- Suporte para fonte de alimentação: Montagem Superior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$279,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento", 
     },
 
+    //R$279,99
+    {
+      title: "(GB0146) GABINETE GAMER MYMAX DRAGON, ROSA",
+      image: "GB0146.png",
+      text: "*GABINETE GAMER MYMAX DRAGON, ROSA*\n\nEspecificações: \n- Marca: MYMAX\n - Modelo:  MCA-DRAGON/PK\n - Cor: Rosa \n - Materiais: Aço, Plástico \n - Painel lateral: Acrílico\n - Dimensões: 22 x 45,4 x 46,7 cm\n - Slots: Não possui\n- Suporte para fonte de alimentação: Montagem Superior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$279,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento", 
+    },
+
+    //R$299,99
+    {
+      title: "(GB0116) GABINETE GAMER MYMAX TAURUS, ROSA",
+      image: "GB0116.png",
+      text: "*GABINETE GAMER MYMAX TAURUS, ROSA*\n\nEspecificações: \n- Marca: MYMAX\n - Modelo: TAURUS\n - Cor: Rosa \n - Materiais: Aço, Plástico \n - Painel lateral: Acrílico\n - Dimensões: 45 X. 43 X. 21.7cm\n - Slots: Não possui\n- Suporte para fonte de alimentação: Montagem Superior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$299,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento", 
+    },
+
     //R$340,00
     {
       title: "(GB0075) GABINETE FORTREK HOLT, BRACO",
@@ -176,6 +190,27 @@
       title: "(GB0153) GABINETE AQUARIO EVOLUT MIZU, BRANCO",
       image: "GB0153.png",
       text: "*GABINETE AQUÁRIO EVOLUT MIZU, BRANCO*\n\nEspecificações: \n- Marca: EVOLUT\n - Modelo: EG824\n - Cor: Branco\n - Materiais: Vidro Temperado Frontal, Aço \n - Painel lateral: Vidro Temperado \n - Dimensões: 33,9 x 27,6 x 33 cm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$599,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    //R$690,00
+    {
+      title: "(GB0151) GABINETE GAMER PCYES FORCEFIELD 'AQUARIO' MAX BLACK VULCAN, PRETO",
+      image: "GB0151.png",
+      text: "*GABINETE GAMER PCYES FORCEFIELD 'AQUARIO' MAX BLACK VULCAN, PRETO*\n\nEspecificações: \n- Marca: PCYES\n - Modelo:  GFFMAXBV - BLACK VULCAN \n - Cor: Preto\n - Materiais: Vidro Temperado Frontal, Aço \n - Painel lateral: Vidro Temperado \n - Dimensões: 33,9 x 27,6 x 33 cm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    //R$690,00
+    {
+      title: "(GB0143) GABINETE GAMER PCYES FORCEFIELD 'AQUARIO 'MAX WHITE GHOST, BRANCO",
+      image: "GB0143.png",
+      text: "*GABINETE GAMER PCYES FORCEFIELD 'AQUARIO 'MAX WHITE GHOST, BRANCO*\n\nEspecificações: \n- Marca: PCYES\n - Modelo: GFFMAXWG \n - Cor: Branco\n - Materiais: Vidro Temperado Frontal, Aço \n - Painel lateral: Vidro Temperado \n - Dimensões:  425x280x435mm;\n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    //R$690,00
+    {
+      title: "(GB0161)  GABINETE GAMER REDRAGON EDGE, PRETO, S/FANS, MID TOWER, ATX",
+      image: "GB0161.png",
+      text: "* GABINETE GAMER REDRAGON EDGE, PRETO, S/FANS, MID TOWER, ATX*\n\nEspecificações: \n- Marca: REDRAGON\n - Modelo:  CA-608B\n - Cor: Preto\n - Materiais: SPCC, Aço \n - Painel lateral: Vidro Temperado \n - Dimensões:  440 x 238 x 495mm;\n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$749,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     //R$000,00
