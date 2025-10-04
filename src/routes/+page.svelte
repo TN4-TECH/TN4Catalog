@@ -69,7 +69,7 @@
   const gpus = [
     { code: "VG0039", title: "REVENGER GT 730 4GB", price: "R$ 490,00" },
     { code: "VG0053", title: "BIOSTAR RX 550 4GB", price: "R$ 790,00" },
-    { code: "VG0086", title: "GTX 750TI 2GB", price: "R$ 890,00" },
+    { code: "VG0086", title: "GTX 750TI 2GB", price: "R$ 790,00" },
     { code: "VG0087", title: "PCYES GTX 750 TI, 4GB", price: "R$ 990,00" },
     { code: "VG0067", title: "RX 580 8GB", price: "R$1.390,00" },
     { code: "VG0070", title: "GAINWARD RTX 3050 6GB", price: "R$1.990,00" },
