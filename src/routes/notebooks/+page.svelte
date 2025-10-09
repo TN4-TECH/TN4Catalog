@@ -10,13 +10,6 @@
     //   image: ".png",
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
-    
-    // R$1.790,00
-    {
-      title: "(NT0059) DELL LATITUDE 5290",
-      image: "NT0059.png",
-      text: "💻 NOTEBOOK DELL LATITUDE 5290\n\n*Processador:* INTEL CORE I5 DE 7ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 128GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
-    },
 
     // R$3.490,00
     {
