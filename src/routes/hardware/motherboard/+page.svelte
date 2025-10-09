@@ -24,6 +24,7 @@
     { code: "PM0042", title: "PLACA MÃE DUEX 450G, AM4", price: "R$790,00" },
     { code: "PM0014", title: "PLACA MÃE DUEX B550, AM4", price: "R$790,00" },
     { code: "PM0102", title: "PLACA MÃE MSI PRO A620M-E, AM5", price: "R$990,00" },
+    { code: "PM0043", title: "PLACA MÃE MSI B550M-A PRO AM4", price: "R$999,00" },
     { code: "PM0091", title: "PLACA MAE BIOSTAR B650MT, CHIPSET B650, AM5", price: "R$1.190,00" },
     { code: "PM0122", title: "PLACA MÃE GIGABYTE B550 AORUS ELITE - AM4 ", price: "R$1.390,00" },
     { code: "PM0084", title: "PLACA MAE MSI B550M PRO-VHD WIFI, AM4", price: "R$1.390,00" },
