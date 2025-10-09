@@ -32,7 +32,7 @@
 
     // R$2.190,00
     {
-      title: "(PC0000) i7 de 3ª + GT 750TI 4GB",
+      title: "(PC0007) i7 de 3ª + GT 750TI 4GB",
       image: "ORCUSPC.png",
       text: "*Máquina ideal para Jogos como:* \n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA V (Gráficos Médios)\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* i7-3770\n*Placa Mãe:* H61 (LGA 1155)\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler* RGB\n*Placa de Vídeo:* GTX 750TI 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED\n*Fonte:* 500W\n\n*R$ 2.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
