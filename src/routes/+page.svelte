@@ -75,6 +75,7 @@
     { code: "VG0070", title: "GAINWARD RTX 3050 6GB", price: "R$1.990,00" },
     { code: "VG0069", title: "RX 6600 8GB CHALLENGER", price: "R$ 2.490,00" },
     { code: "VG0016", title: "ZOTAC RTX 3060 12GB", price: "R$ 2.590,00" },
+    { code: "VG0089", title: "RTX 5050 8GB MSI", price: "R$ 2.690,00" },
     { code: "VG0079", title: "ASUS RADEON RX 7600 8GB", price: "R$ 2.790,00" },
     { code: "VG0077", title: "RTX 4060 ZOTAC WHITE", price: "R$ 3.290,00" },
     { code: "VG0066", title: "GAINWARD GHOST RTX 5060, 8GB", price: "R$ 3.590,00" },
