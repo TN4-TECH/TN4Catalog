@@ -16,18 +16,15 @@
 ];
 
   const amd = [
-    { code: "PO0040", title: "ATHLON 3000G", price: "R$600,00" },
-    { code: "PO0035", title: "AMD Ryzen 5 5500", price: "R$890,00" },
+    { code: "PO0043", title: "AMD Ryzen 3 3200G", price: "R$800,00" },
     { code: "PO0058", title: "AMD Ryzen 5 5500", price: "R$990,00" },
-    { code: "PO0056B", title: "AMD Ryzen 5 5600G", price: "R$1.250,00" },
     { code: "PO0057B", title: "AMD Ryzen 5 5600", price: "R$1.390,00" },
     { code: "PO0055", title: "AMD Ryzen 5 5600GT", price: "R$1.490,00" },
-    { code: "PO0050", title: "AMD Ryzen 5 3700X", price: "R$1.490,00" },
-    { code: "PO0063", title: "AMD Ryzen 5 5700G", price: "R$1.750,00" },
-    { code: "PO00", title: "AMD Ryzen 7 5700X", price: "R$1.890,00" },
-    { code: "PO00", title: "AMD Ryzen 7 5800X", price: "R$2.490,00" },
-    { code: "PO00", title: "AMD Ryzen 7 5700X3D", price: "R$2.590,00" },
-    { code: "PO00", title: "AMD Ryzen 9 5900X", price: "R$2.990,00" },
+    { code: "PO0063", title: "AMD Ryzen 7 5700G", price: "R$1.750,00" },
+    { code: "PO0051", title: "AMD Ryzen 7 5700X", price: "R$1.890,00" },
+    { code: "PO0042", title: "AMD Ryzen 7 5800X", price: "R$2.490,00" },
+    { code: "PO0033", title: "AMD Ryzen 7 5700X3D", price: "R$2.590,00" },
+    { code: "PO0034", title: "AMD Ryzen 9 5900X", price: "R$2.990,00" },
   ];
 
   function copyToClipboard(product: { text: string }) {
