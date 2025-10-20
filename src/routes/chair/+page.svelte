@@ -106,6 +106,13 @@
       image: "CA0026.png",
       text: "*CADEIRA GAMER DRAXEN DN1 RGB*\n\nEspecificações: \n- Altura do encosto (cm): 84CM \n- Largura do Assento: 52CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
+
+    //R$1.490,00
+    {
+      title: "(CA0065) CADEIRA GAMER PCYES SENTINEL, RED MAGMA",
+      image: "CA0065.png",
+      text: "*CADEIRA GAMER PCYES SENTINEL, RED MAGMA*\n\nEspecificações: \n- Altura do encosto (cm): 87CM \n- Largura do Assento: 56CM\n- Materiais: PU (couro sintetico) + tecido mesh E estrutura de ferro + espuma injetada D45\n- Peso suportado: 150kg\n\nPor apenas *R$1.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
   ];
 
   function copyToClipboard(product: { text: string }) {

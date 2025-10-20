@@ -8,14 +8,14 @@
     // {
     //   title: "(CODE)NOTEBOOK ",
     //   image: ".png",
-    //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
+    //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n*Tela:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
 
     //R$1.499,99
     {
       title: "(NT0080)NOTEBOOK LENOVO THINKPAD T740 ",
       image: "NT0080.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD T740\n\n*Processador:* i5 6300U (6ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$1.499,99* em até 10x sem juros!",
+      text: "💻 NOTEBOOK LENOVO THINKPAD T740\n\n*Processador:* i5 6300U (6ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.499,99* em até 10x sem juros!",
     },
 
     // R$1.790,00
