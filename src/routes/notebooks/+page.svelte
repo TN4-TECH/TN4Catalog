@@ -29,7 +29,7 @@
     {
       title: "(NT0081) NOTEBOOK DELL VOSTRO 14",
       image: "NT0081.png",
-      text: "💻 NOTEBOOK DELL VOSTRO 14\n\n*Processador:* i5-8265U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n(Acompanha Fonte)\n\n*POR APENAS R$2.399,99* em até 10x sem juros!",
+      text: "💻 NOTEBOOK DELL VOSTRO 14\n\n*Processador:* i5-8265U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.399,99* em até 10x sem juros!",
     },
   ];
 
