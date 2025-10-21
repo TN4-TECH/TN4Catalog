@@ -5,10 +5,6 @@
   const water120mm = [
     { code: "WC0000", title: "WATER COOLER EVOLUT GLACIAL, 120MM, LED FAN", price: "R$330,00" },
     { code: "WC0000", title: "WATER COOLER EVOLUT GLACIAL, 120MM, MANGUEIRA LED", price: "R$349,90" },
-    { code: "WC0000", title: "WATER COOLER PCYES SANGUE FRIO 3 BLACK VULCAN, 120MM", price: "R$359,90" },
-    { code: "WC0000", title: "WATER COOLER PCYES SANGUE FRIO 3 WHITE GHOST, 120MM", price: "R$379,90" },
-    { code: "WC0000", title: "WATER COOLER GAMDIAS AURA, 120MM, PRETO", price: "R$389,00" },
-    { code: "WC0000", title: "WATER COOLER GAMDIAS AURA, 120MM, BRANCO", price: "R$389,90" },
     { code: "WC0000", title: "WATER COOLER SANGUE FRIO2 120MM PCYES", price: "R$399,90" },
     { code: "WC0000", title: "WATER COOLER EVOLUT GLACIAL LUMINI, 120MM, BRANCO, MANGUEIRA LED", price: "R$399,90" },
     { code: "WC0000", title: "WATER COOLER KALKAN IOTA, 240MM, ARBG, PRETO", price: "R$399,91" },
@@ -19,7 +15,6 @@
 
   const water360mm = [
     { code: "WC0000", title: "WATER COOLER KALKAN IOTA, 360MM, ARBG, PRETO", price: "R$519,90" },
-    { code: "WC0000", title: "WATER COOLER RISE MODE 360MM, AMD/INTEL, PRETO", price: "R$:599,90"},
     { code: "WC0000", title: "WATER COOLER KALKAN ALPHA, 360MM, ARBG, TELA DIGITAL, PRETO", price: "R$:599,90"},
     { code: "WC0000", title: "WATER COOLER KALKAN DELTA, 360MM, ARBG, PRETO", price: "R$:699,90"},
     { code: "WC0000", title: "WATER COOLER ACEGEEK E360, RAINBOW, 360MM, BRANCO", price: "R$:679,90"},
