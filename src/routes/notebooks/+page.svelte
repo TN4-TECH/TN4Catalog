@@ -11,6 +11,13 @@
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n*Tela:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
 
+    //R$999,99
+    {
+      title: "(NT0086) NOTEBOOK DELL VOSTRO P65",
+      image: "NT0086.png",
+      text: "💻 NOTEBOOK DELL VOSTRO P65\n\n*Processador:* I3 4005U (4ªGEN)\n*Memória RAM:* 8GB DDR3 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$999,99* em até 10x sem juros!",
+    },
+
     //R$1.499,99
     {
       title: "(NT0080)NOTEBOOK LENOVO THINKPAD T740 ",
