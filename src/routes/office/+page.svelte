@@ -6,7 +6,7 @@
     {
       title: "(DT0012) DESKTOP LENOVO THINKCENTRE M92P",
       image: "DT0012.png",
-      text: "*Processador:* INTEL I5-3470 (3ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$690,00*em até 10x sem juros!",
+      text: "*Processador:* INTEL I5-4570 (3ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$690,00*em até 10x sem juros!",
     },
 
     // R$690,00
