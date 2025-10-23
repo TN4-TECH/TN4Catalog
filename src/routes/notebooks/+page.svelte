@@ -45,6 +45,13 @@
       image: "NT0084.png",
       text: "💻 DELL LATITUDE 3400\n\n*Processador:* i5-8265U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.399,99* em até 10x sem juros!",
     },
+
+    //R$2.599,99
+    {
+      title: "(NT0082) DELL LATITUDE 3490",
+      image: "NT0082.png",
+      text: "💻 DELL LATITUDE 3490\n\n*Processador:* I7-8550U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.599,99* em até 10x sem juros!",
+    },
   ];
 
   function copyToClipboard(product: { text: string }) {
