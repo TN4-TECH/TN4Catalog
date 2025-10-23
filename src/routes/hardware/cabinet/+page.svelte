@@ -29,19 +29,26 @@
       image: "GB0075.png",
       text: "*GABINETE FORTREK HOLT*\n\nEspecificações: \n- Marca: FORTREK\n - Modelo: HOLT\n - Cor: Branco \n - Materiais: ABS + malha preta;\n - Painel lateral: Vidro Temperado \n - Dimensões: 375 x 215 x 439mm\n - Slots: 7 \n- Suporte para fonte de alimentação: Montagem Superior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$340,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento", 
     },
-
-    //R$389,99
-    {
-      title: "(GB0115) GABINETE GAMER MYMAX LION ROSA",
-      image: "GB0115.png",
-      text: "*GABINETE GAMER MYMAX LION ROSA - MCA-LION/PK*\n\nEspecificações: \n- Marca: MYMAX\n - Modelo: LION - MCA-LION/PK\n - Cor: Rosa \n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 18,5 x 41,5 x 34,2 cm\n - Slots: 7 \n- Suporte para fonte de alimentação: Montagem INFERIOR, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$389,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento", 
-    },
     
     //R$339,99
     {
       title: "(GB0139) GABINETE GAMER AEROCOOL SHARD, PRETO",
       image: "GB0139.png",
       text: "*GABINETE GAMER AEROCOOL SHARD*\n\nEspecificações: \n- Marca: AEROCOOL\n - Modelo: Shard RGB - 679890\n - Cor: Preto\n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 194 x 444 x 423.5mm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$399,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+     //R$349,99
+    {
+      title: "(GB0124) GABINETE GAMER DUEX DX305M, PRETO",
+      image: "GB0124.png",
+      text: "*GABINETE GAMER DUEX DX305M, PRETO*\n\nEspecificações: \n- Marca: DUEX\n - Modelo: DX305M\n - Cor: Preto\n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 	305 x 192 x 435 mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$349,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    //R$389,99
+    {
+      title: "(GB0115) GABINETE GAMER MYMAX LION ROSA",
+      image: "GB0115.png",
+      text: "*GABINETE GAMER MYMAX LION ROSA - MCA-LION/PK*\n\nEspecificações: \n- Marca: MYMAX\n - Modelo: LION - MCA-LION/PK\n - Cor: Rosa \n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 18,5 x 41,5 x 34,2 cm\n - Slots: 7 \n- Suporte para fonte de alimentação: Montagem INFERIOR, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$389,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento", 
     },
     
     //R$390,00
