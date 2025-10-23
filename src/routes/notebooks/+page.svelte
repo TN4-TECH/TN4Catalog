@@ -13,21 +13,21 @@
 
     //R$990,90
     {
-      title: "(NT0086) NOTEBOOK DELL VOSTRO P65",
+      title: "(NT0086) DELL VOSTRO P65",
       image: "NT0086.png",
       text: "💻 NOTEBOOK DELL VOSTRO P65\n\n*Processador:* I3 4005U (4ªGEN)\n*Memória RAM:* 8GB DDR3 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$999,99* em até 10x sem juros!",
     },
 
     //R$1.499,90
     {
-      title: "(NT0080)NOTEBOOK LENOVO THINKPAD T740 ",
+      title: "(NT0080) LENOVO THINKPAD T740 ",
       image: "NT0080.png",
       text: "💻 NOTEBOOK LENOVO THINKPAD T740\n\n*Processador:* i5 6300U (6ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.500,00* em até 10x sem juros!",
     },
 
     //R$1.690,99
     {
-      title: "(NT0087)  NOTEBOOK HP 240 G6",
+      title: "(NT0087) HP 240 G6",
       image: "NT0087.png",
       text: "💻 NOTEBOOK HP 240 G6\n\n*Processador:*5-7200U (7ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.690,00* em até 10x sem juros!",
     },
@@ -48,7 +48,7 @@
 
     //R$2.399,99
     {
-      title: "(NT0084) NOTEBOOK DELL LATITUDE 3400",
+      title: "(NT0084) DELL LATITUDE 3400",
       image: "NT0084.png",
       text: "💻 DELL LATITUDE 3400\n\n*Processador:* i5-8265U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.400,00* em até 10x sem juros!",
     },
@@ -62,7 +62,7 @@
 
     //R$3.000,00
     {
-      title: "(NT0085) NOTEBOOK DELL LATITUDE 5410",
+      title: "(NT0085) DELL LATITUDE 5410",
       image: "NT0085.png",
       text: "💻 DELL LATITUDE 5410\n\n*Processador:* I5-10310U (10GEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$3.000,00* em até 10x sem juros!",
     },
