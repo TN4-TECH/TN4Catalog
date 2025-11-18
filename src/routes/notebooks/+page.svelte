@@ -25,13 +25,6 @@
       text: "💻 NOTEBOOK LENOVO THINKPAD T740\n\n*Processador:* i5 6300U (6ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.500,00* em até 10x sem juros!",
     },
 
-    //R$1.690,99
-    {
-      title: "(NT0087) HP 240 G6",
-      image: "NT0087.png",
-      text: "💻 NOTEBOOK HP 240 G6\n\n*Processador:*5-7200U (7ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.690,00* em até 10x sem juros!",
-    },
-
     // R$1.790,00
     {
       title: "(NT0059) DELL LATITUDE 5290",
