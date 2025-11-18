@@ -68,18 +68,14 @@
 
   const gpus = [
     { code: "VG0039", title: "REVENGER GT 730 4GB", price: "R$ 490,00" },
-    { code: "VG0053", title: "BIOSTAR RX 550 4GB", price: "R$ 790,00" },
     { code: "VG0086", title: "GTX 750TI 2GB", price: "R$ 790,00" },
     { code: "VG0087", title: "PCYES GTX 750 TI, 4GB", price: "R$ 990,00" },
     { code: "VG0067", title: "RX 580 8GB", price: "R$1.390,00" },
     { code: "VG0070", title: "GAINWARD RTX 3050 6GB", price: "R$1.990,00" },
     { code: "VG0069", title: "RX 6600 8GB CHALLENGER", price: "R$ 2.490,00" },
-    { code: "VG0016", title: "ZOTAC RTX 3060 12GB", price: "R$ 2.590,00" },
     { code: "VG0089", title: "RTX 5050 8GB MSI", price: "R$ 2.690,00" },
-    { code: "VG0079", title: "ASUS RADEON RX 7600 8GB", price: "R$ 2.790,00" },
     { code: "VG0077", title: "RTX 4060 ZOTAC WHITE", price: "R$ 3.290,00" },
     { code: "VG0066", title: "GAINWARD GHOST RTX 5060, 8GB", price: "R$ 3.590,00" },
-    { code: "VG0058", title: "MSI RTX 4070 SUPER 12GB", price: "R$ 7.290,00" },
     { code: "VG0071", title: "MSI RTX 5070TI 16GB", price: "R$ 11.900,00" },
   ];
 
