@@ -234,6 +234,13 @@
       text: "* GABINETE GAMER REDRAGON EDGE, PRETO, S/FANS, MID TOWER, ATX*\n\nEspecificações: \n- Marca: REDRAGON\n - Modelo:  CA-608B\n - Cor: Preto\n - Materiais: SPCC, Aço \n - Painel lateral: Vidro Temperado \n - Dimensões:  440 x 238 x 495mm;\n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$749,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
+    //R$1.090,00
+    {
+      title: "(GB0158) GABINETE GAMER ACER V951 BK, PRETO, AQUARIO",
+      image: "GB0158.png",
+      text: "*GABINETE GAMER ACER V951 BK, PRETO, AQUARIO*\n\nEspecificações: \n- Marca: ASUS\n - Modelo: V951BK\n - Cor: Preto\n - Materiais: SPCC, Aço \n - Painel lateral: Vidro Temperado \n - Dimensões: 40 cm x 20 cm x 45 cm\n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$1.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
     //R$000,00
     {
       title: "(GB0166) GABINETE GAMER AEROCOOL CYLON, BRANCO",
