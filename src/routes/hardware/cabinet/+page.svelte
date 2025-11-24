@@ -16,6 +16,13 @@
       text: "*GABINETE GAMER MYMAX DRAGON, ROSA*\n\nEspecificações: \n- Marca: MYMAX\n - Modelo:  MCA-DRAGON/PK\n - Cor: Rosa \n - Materiais: Aço, Plástico \n - Painel lateral: Acrílico\n - Dimensões: 22 x 45,4 x 46,7 cm\n - Slots: Não possui\n- Suporte para fonte de alimentação: Montagem Superior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$279,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento", 
     },
 
+    //R$290,00
+    {
+      title: "(GB0159) GABINETE GAMER ROUND5 MANTS, PRETO",
+      image: "GB0159.png",
+      text: "*GABINETE GAMER ROUND5 MANTS, PRETO*\n\nEspecificações: \n- Marca: ROUND5\n - Modelo:  MANTIS\n - Cor: Preto \n - Materiais: Aço, Plástico \n - Painel lateral: Vidro Temperado\n - Dimensões: 27.5cm x 17cm x 35cm\n - Slots: Não possui\n- Suporte para fonte de alimentação: Montagem Superior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento", 
+    },
+
     //R$299,99
     {
       title: "(GB0116) GABINETE GAMER MYMAX TAURUS, ROSA",
@@ -197,6 +204,13 @@
       title: "(GB0153) GABINETE AQUARIO EVOLUT MIZU, BRANCO",
       image: "GB0153.png",
       text: "*GABINETE AQUÁRIO EVOLUT MIZU, BRANCO*\n\nEspecificações: \n- Marca: EVOLUT\n - Modelo: EG824\n - Cor: Branco\n - Materiais: Vidro Temperado Frontal, Aço \n - Painel lateral: Vidro Temperado \n - Dimensões: 33,9 x 27,6 x 33 cm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$599,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    //R$690,00
+    {
+      title: "(GB0157)  GABINETE GAMER GALAX REVOLUTION 06, BRANCO ",
+      image: "GB0157.png",
+      text: "* GABINETE GAMER GALAX REVOLUTION 06, BRANCO *\n\nEspecificações: \n- Marca: GALAX\n - Modelo: G-CGG6AGWA4B0-GLXG\n - Cor: Branco\n - Materiais: SPCC + Vidro Temperado\n - Painel lateral: Vidro Temperado \n - Dimensões: 140mm x 150mm x 86mm\n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \n - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     //R$690,00
