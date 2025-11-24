@@ -76,10 +76,9 @@
     { code: "VG0069", title: "RX 6600 8GB CHALLENGER", price: "R$ 2.490,00" },
     { code: "VG0089", title: "RTX 5050 8GB MSI", price: "R$ 2.690,00" },
     { code: "VG0098", title: " RTX 5060 8GB, WINDFORCE OC", price: "R$ 3.190,00" },
-    { code: "VG0077", title: "RTX 4060 ZOTAC WHITE", price: "R$ 3.290,00" },
     { code: "VG0099", title: "RX 9060 XT GAMING OC", price: "R$ 3.499,00" },
     { code: "VG0066", title: "GAINWARD GHOST RTX 5060, 8GB", price: "R$ 3.590,00" },
-    { code: "VG0071", title: "MSI RTX 5070TI 16GB", price: "R$ 11.900,00" },
+    { code: "VG0100", title: "GIGABYTE RTX 5060 TI EAGLE OC, 8GB", price: "R$ 3.890,00" },
   ];
 
   function copyToClipboard(product: { text: string }) {
