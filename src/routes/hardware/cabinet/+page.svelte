@@ -114,6 +114,13 @@
       text: "*GABINETE GAMER AEROCOOL MECHA*\n\nEspecificações: \n- Marca: AEROCOOL\n - Modelo: MECHA RGB - 72998\n - Cor: Preto\n - Materiais: Aço e Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões: 200 x 430 x 305mm\n - Slots: 7 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe: \N - ATX \n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$439,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
+    //R$439,90
+    {
+      title: "(GB0176) GABINETE GAMER HAYOM AQUARIO PRETO - GB1796",
+      image: "GB0176.png",
+      text: "*GABINETE GAMER HAYOM 'AQUARIO' PRETO - GB1796*\n\nEspecificações: \n- Marca: HAYOM\n - Modelo: GB1796\n - Cor: Preto\n - Materiais: Aço e Plástico \n - Painel lateral: Vidro Temperado \n - Dimensões:340 x 270 x 325 mm\n - Slots: 4 \n- Suporte para fonte de alimentação: montagem inferior, ATX PS2 \n\nSuporte para placa-mãe:\n - Micro-ATX\n - Mini-ITX \n\nPor apenas *R$439,99* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
     //R$449,99
     {
       title: "(GB0036) GABINETE GAMER FORTREK BLACK HAWK, PRETO",
