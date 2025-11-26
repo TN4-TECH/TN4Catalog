@@ -11,13 +11,6 @@
     //   text: "💻 NOTEBOOK ...\n\n*Processador:* \n*Memória RAM:* \n*Armazenamento:*\n*Tela:*\n(Acompanha Fonte)\n\n*POR APENAS R$0.000,00* em até 10x sem juros!",
     // },
 
-    //R$990,90
-    {
-      title: "(NT0086) DELL VOSTRO P65",
-      image: "NT0086.png",
-      text: "💻 NOTEBOOK DELL VOSTRO P65\n\n*Processador:* I3 4005U (4ªGEN)\n*Memória RAM:* 8GB DDR3 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$999,99* em até 10x sem juros!",
-    },
-
     //R$1.499,90
     {
       title: "(NT0080) LENOVO THINKPAD T740 ",
@@ -25,47 +18,11 @@
       text: "💻 NOTEBOOK LENOVO THINKPAD T740\n\n*Processador:* i5 6300U (6ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.500,00* em até 10x sem juros!",
     },
 
-    // R$1.790,00
-    {
-      title: "(NT0059) DELL LATITUDE 5290",
-      image: "NT0059.png",
-      text: "💻 NOTEBOOK DELL LATITUDE 5290\n\n*Processador:* INTEL CORE I5 DE 7ªGEN\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 128GB\n(Acompanha Fonte)\n*Tela*: 15.6' POL.\n\n*POR APENAS R$1.790,00* em até 10x sem juros!",
-    },
-
-    //R$2.299,99
-    {
-      title: "(NT0083) DELL LATITUDE 3490",
-      image: "NT0083.png",
-      text: "💻 DELL LATITUDE 3490\n\n*Processador:* I5-8250U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.300,00* em até 10x sem juros!",
-    },
-
     //R$2.399,99
     {
       title: "(NT0084) DELL LATITUDE 3400",
       image: "NT0084.png",
       text: "💻 DELL LATITUDE 3400\n\n*Processador:* i5-8265U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.400,00* em até 10x sem juros!",
-    },
-
-    //R$2.399,99
-    {
-      title: "(NT0081) DELL VOSTRO 14",
-      image: "NT0081.png",
-      text: "💻 DELL VOSTRO 14\n\n*Processador:* I5-8265U (8GEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.400,00* em até 10x sem juros!",
-    },
-
-
-    //R$2.599,99
-    {
-      title: "(NT0082) DELL LATITUDE 3490",
-      image: "NT0082.png",
-      text: "💻 DELL LATITUDE 3490\n\n*Processador:* I7-8550U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.600,00* em até 10x sem juros!",
-    },
-
-    //R$3.000,00
-    {
-      title: "(NT0085) DELL LATITUDE 5410",
-      image: "NT0085.png",
-      text: "💻 DELL LATITUDE 5410\n\n*Processador:* I5-10310U (10GEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$3.000,00* em até 10x sem juros!",
     },
   ];
 
