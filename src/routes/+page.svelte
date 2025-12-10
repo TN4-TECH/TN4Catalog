@@ -69,10 +69,12 @@
     { code: "VG0070", title: "GAINWARD RTX 3050 6GB", price: "R$1.990,00" },
     { code: "VG0069", title: "RX 6600 8GB CHALLENGER", price: "R$ 2.490,00" },
     { code: "VG0089", title: "RTX 5050 8GB MSI", price: "R$ 2.690,00" },
-    { code: "VG0098", title: " RTX 5060 8GB, WINDFORCE OC", price: "R$ 3.190,00" },
+    { code: "VG0079", title: "PLACA DE VÍDEO ASUS RADEON RX 7600 DUAL EVO OC EDITION", price: "R$ 2.790,00" },
+    { code: "VG0098", title: "RTX 5060 8GB, WINDFORCE OC", price: "R$ 3.190,00" },
     { code: "VG0099", title: "RX 9060 XT GAMING OC", price: "R$ 3.499,00" },
     { code: "VG0066", title: "GAINWARD GHOST RTX 5060, 8GB", price: "R$ 3.590,00" },
     { code: "VG0100", title: "GIGABYTE RTX 5060 TI EAGLE OC, 8GB", price: "R$ 3.890,00" },
+    { code: "VG0105", title: "PLACA DE VÍDEO PCYES PROJETO EDGE RADEON RX 7600XT 16GB  ", price: "R$ 3.890,00" },
   ];
 
   function copyToClipboard(product: { text: string }) {
