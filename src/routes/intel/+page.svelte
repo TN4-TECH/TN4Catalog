@@ -27,14 +27,7 @@
     {
       title: "(PC0020) i7 de 3ª/4ª + GTX 750 TI 2GB",
       image: "PC0020.png",
-      text: "*Máquina ideal para Jogos como:* \n  LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA V (Gráficos Médios)\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* i7 - 3°/4°Gen\n*Placa Mãe:* H61 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler* RGB\n*Placa de Vídeo:* GTX 750 TI 2GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED\n*Fonte:* 500W\n\n*R$ 1.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
-    },
-
-    // R$2.190,00
-    {
-      title: "(PC0007) i7 de 3ª + GT 750TI 4GB",
-      image: "ORCUSPC.png",
-      text: "*Máquina ideal para Jogos como:* \n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA V (Gráficos Médios)\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* i7-3770\n*Placa Mãe:* H61 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler* RGB\n*Placa de Vídeo:* GTX 750TI 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED\n*Fonte:* 500W\n\n*R$ 2.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+      text: "*Máquina ideal para Jogos como:* \n  LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA V (Gráficos Médios)\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* i7 - 3°/4°Gen\n*Placa Mãe:* H61 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler* RGB\n*Placa de Vídeo:* GTX 750 TI 2GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED\n*Fonte:* 500W\n\n*R$ 2.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$2.790,00
@@ -42,13 +35,6 @@
       title: "i5 de 11ª (Gamdias)",
       image: "I5-11500(GAMDIAS).png",
       text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I5-11500 (11° GEN)\n*Placa Mãe:* LGA 1200 GIGABYTE\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler*\n*Armazenamento:* NVME 256GB\n*Gabinete:*GAMDIAS AURA BRANCO C/3 FANS RGB\n*Fonte:* 500W\n\n*R$ 2.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
-    },
-
-    // R$2.790,00
-    {
-      title: "i5 de 11ª (Preto)",
-      image: "I5-11500(AERO).png",
-      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I5-11500 (11° GEN)\n*Placa Mãe:* LGA 1200 GIGABYTE\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler*\n*Armazenamento:* NVME 256GB\n*Gabinete:* AEROCOOL DELTA PRETO\n*Fonte:* 500W\n\n*R$ 2.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
     },
 
     // R$5.490,00
