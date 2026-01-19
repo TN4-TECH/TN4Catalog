@@ -15,14 +15,14 @@
     {
       title: "(NT0080) LENOVO THINKPAD T740 ",
       image: "NT0080.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD T740\n\n*Processador:* i5 6300U (6ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.500,00* em até 10x sem juros!",
+      text: "💻 NOTEBOOK LENOVO THINKPAD T740\n\n*Processador:* i5 6300U (6ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.500,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
     //R$2.399,99
     {
       title: "(NT0084) DELL LATITUDE 3400",
       image: "NT0084.png",
-      text: "💻 DELL LATITUDE 3400\n\n*Processador:* i5-8265U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.400,00* em até 10x sem juros!",
+      text: "💻 DELL LATITUDE 3400\n\n*Processador:* i5-8265U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.400,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
   ];
 

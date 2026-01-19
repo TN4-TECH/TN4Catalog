@@ -6,35 +6,35 @@
     {
       title: "(PC0013)i5 3ªSETUP COMPLETO",
       image: "PC0013.png",
-      text: "*Setup ideal para Jogos como:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n\n*Processador:* I5-4570\n*Placa Mãe:* H81 (LGA 1150)\n*Memória RAM:* 1x8GB(8GB)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 1.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n\n\n",
+      text: "*Setup ideal para Jogos como:* \n 💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n\n*Processador:* I5-4570\n*Placa Mãe:* H81 (LGA 1150)\n*Memória RAM:* 1x8GB(8GB)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 1.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
     // R$2.490,00
     {
       title: "(PC0046) SETUP i5 3ª + GT 730",
       image: "PC0046.png",
-        text: "*Setup ideal para Jogos como:* \n🔫 GTA 5 (Gráficos Baixos)\n⚡VALORANT\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 FREE FIRE (*Necessário configuração de emuladores*)\n\n*Processador:* I5-4570\n*Placa Mãe:* H81 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Placa de Vídeo:* GT 730 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n\n\n",
+      text: "*Setup ideal para Jogos como:* \n🔫 GTA 5 (Gráficos Baixos)\n⚡VALORANT\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🔫 FREE FIRE (*Necessário configuração de emuladores*)\n\n*Processador:* I5-4570\n*Placa Mãe:* H81 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Placa de Vídeo:* GT 730 4GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
     // R$2.790,00
     {
       title: "(PC0010)SETUP i5 3ª + GTX 750 TI",
       image: "PC0010.png",
-      text: "*Setup ideal para Jogos como:* \n⚡VALORANT ( Gráficos alto )\n💥LEAGUE OF LEGENDS( Gráfico alto )\n🔫CS GO ( Gráfico Medio )\n🚔 GTA V(Gráficos Baixos)\n🚚 Euro Truck Simulator 2(Gráficos medio/Baixos)\n6️⃣ RAINBOW SIX SIEGE( Gráfico baixo )\n🔫 FREE FIRE (*Necessário conhecimento em uso e configuração de Emuladores*)\n\n*Processador:* I5-4570\n*Placa Mãe:* H81 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Placa de Vídeo:* GTX 750 TI 2GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n\n\n",
+      text: "*Setup ideal para Jogos como:* \n⚡VALORANT ( Gráficos alto )\n💥LEAGUE OF LEGENDS( Gráfico alto )\n🔫CS GO ( Gráfico Medio )\n🚔 GTA V(Gráficos Baixos)\n🚚 Euro Truck Simulator 2(Gráficos medio/Baixos)\n6️⃣ RAINBOW SIX SIEGE( Gráfico baixo )\n🔫 FREE FIRE (*Necessário conhecimento em uso e configuração de Emuladores*)\n\n*Processador:* I5-4570\n*Placa Mãe:* H81 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Placa de Vídeo:* GTX 750 TI 2GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 2.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
     // R$3.090,00
     {
       title: "(PC0018) SETUP i7 3ª + GTX 750 TI - R$2.790,00",
       image: "PC0018.png",
-      text: "*Setup ideal para Jogos como:* \n⚡VALORANT\n💥LEAGUE OF LEGENDS\n🔫CS GO (Gráfico Medio)\n🦙 FORTNITE (Gráficos Baixos)\n🚔 GTA RP(Gráficos Baixo)\n🚚 Euro Truck Simulator 2(Gráficos Baixos)\n6️⃣ RAINBOW SIX SIEGE(Gráfico baixo)\n🔫 FREE FIRE (*Necessário configuração de Emuladores*)\n\n*Processador:* i7-3770\n*Placa Mãe:* H61 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Placa de Vídeo:* GTX 750 TI 2GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 3.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+      text: "*Setup ideal para Jogos como:* \n⚡VALORANT\n💥LEAGUE OF LEGENDS\n🔫CS GO (Gráfico Medio)\n🦙 FORTNITE (Gráficos Baixos)\n🚔 GTA RP(Gráficos Baixo)\n🚚 Euro Truck Simulator 2(Gráficos Baixos)\n6️⃣ RAINBOW SIX SIEGE(Gráfico baixo)\n🔫 FREE FIRE (*Necessário configuração de Emuladores*)\n\n*Processador:* i7-3770\n*Placa Mãe:* H61 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Placa de Vídeo:* GTX 750 TI 2GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 3.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
     // R$4.090,00
     {
       title: "(PC0091) SETUP GAMER RYZEN 3 3200G",
       image: "PC0014.png",
-      text: "*Setup ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🔫 VALORANT\n🔫 CS2\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 3 3200G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 8 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n+ 🖥️ Monitor de 19' Pol.\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$4.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n"
+      text: "*Setup ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🔫 VALORANT\n🔫 CS2\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 3 3200G\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:* VEGA 8 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n+ 🖥️ Monitor de 19' Pol.\n+ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$4.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
     
     // R$4.690,00

@@ -6,35 +6,35 @@
     {
       title: "(DT0012) DESKTOP LENOVO THINKCENTRE M92P",
       image: "DT0012.png",
-      text: "*Processador:* INTEL I5-4570 (3ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$690,00*em até 10x sem juros!",
+      text: "*Processador:* INTEL I5-4570 (3ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$690,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
     // R$690,00
     {
       title: "(DT0015) DESKTOP HP ELITEDESK 8300",
       image: "DT0015.png",
-      text: "*Processador:* INTEL CORE I7-3770 (3ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$890,00*em até 10x sem juros!",
+      text: "*Processador:* INTEL CORE I7-3770 (3ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$890,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
     // R$690,00
     {
       title: "(DT0016) DESKTOP HP ELITEDESK 800 G1",
       image: "DT0016.png",
-      text: "*Processador:* INTEL I7-4770 (4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$1.090,00*em até 10x sem juros!",
+      text: "*Processador:* INTEL I7-4770 (4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$1.090,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
      // R$1.690,00
      {
       title: "(DT0017) DESKTOP LENOVO THINKCENTRE",
       image: "DT0017.png",
-      text: "*Processador:* INTEL I7-7077 (7ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$1.690,00*em até 10x sem juros!",
+      text: "*Processador:* INTEL I7-7077 (7ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 256GB\n\nPor apenas *R$1.690,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
     // R$ 1.790,00
     {
       title: "(DT0087)Lenovo Thinkcentre M910",
       image: "DT0087.png",
-      text: "*Placa Mãe:* \n*Processador:* Intel i7 de 6ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Fonte:* 200w 80PLUS Platinum\n\nDe ~R$1.990,00~ Por apenas *R$1.690,00*em até 10x sem juros!",
+      text: "*Placa Mãe:* \n*Processador:* Intel i7 de 6ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 240GB\n*Fonte:* 200w 80PLUS Platinum\n\nDe ~R$1.990,00~ Por apenas *R$1.690,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
   ];
 
