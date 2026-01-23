@@ -61,20 +61,15 @@
   ];
 
   const gpus = [
-    { code: "VG0039", title: "REVENGER GT 730 4GB", price: "R$ 490,00" },
-    { code: "VG0086", title: "GTX 750TI 2GB", price: "R$ 790,00" },
     { code: "VG0087", title: "PCYES GTX 750 TI, 4GB", price: "R$ 990,00" },
-    { code: "VG0093", title: "PCYES RX 570 8GB", price: "R$ 1.190,00" },
     { code: "VG0067", title: "RX 580 8GB", price: "R$1.390,00" },
-    { code: "VG0070", title: "GAINWARD RTX 3050 6GB", price: "R$1.990,00" },
-    { code: "VG0069", title: "RX 6600 8GB CHALLENGER", price: "R$ 2.490,00" },
-    { code: "VG0089", title: "RTX 5050 8GB MSI", price: "R$ 2.690,00" },
-    { code: "VG0079", title: "PLACA DE VÍDEO ASUS RADEON RX 7600 DUAL EVO OC EDITION", price: "R$ 2.790,00" },
-    { code: "VG0098", title: "RTX 5060 8GB, WINDFORCE OC", price: "R$ 3.190,00" },
-    { code: "VG0099", title: "RX 9060 XT GAMING OC", price: "R$ 3.499,00" },
-    { code: "VG0066", title: "GAINWARD GHOST RTX 5060, 8GB", price: "R$ 3.590,00" },
-    { code: "VG0100", title: "GIGABYTE RTX 5060 TI EAGLE OC, 8GB", price: "R$ 3.890,00" },
-    { code: "VG0105", title: "PLACA DE VÍDEO PCYES PROJETO EDGE RADEON RX 7600XT 16GB  ", price: "R$ 3.890,00" },
+    { code: "VG0114", title: "GAINWARD RTX 3050 6GB", price: "R$1.790,00" },
+    { code: "VG0079", title: "PLACA DE VÍDEO ASUS RADEON RX 7600 DUAL EVO OC EDITION", price: "R$ 2.990,00" },
+    { code: "VG0117", title: "GALAX BLACK RTX 5050 8GB", price: "R$3.190,00" },
+    { code: "VG0066", title: "MSI RTX 5060 8GB MSI", price: "R$ 3.490,00" },
+    { code: "VG0115", title: "ASUS RTX 5060 TI OC PRIME, 8GB, GDDR7 ", price: "R$ 4.390,00" },
+    { code: "VG0113", title: "GAINWARD PYTHON RTX 5060TI 16GB GDDR7", price: "R$ 4.990,00" },
+    { code: "VG0071", title: "RTX 5070TI MSI 16GB, GDDR7", price: "R$ 9.490,00" },
   ];
 
   function copyToClipboard(product: { text: string }) {
