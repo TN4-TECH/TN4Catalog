@@ -32,11 +32,10 @@
   }
 
   const monitors = [
-    { code: "LC0121", title: "MONITOR HAYOM 15,4' POL, VGA, HDMI, PRETO", price: "R$349,99" },
     { code: "LC0032", title: "MONITOR SEMINOVO 19' POL. SORTIDO", price: "R$390,00" },
     { code: "LC0016", title: "MONITOR HAYOM 17.1, VGA, HDMI, PRETO", price: "R$439,90" },
-    { code: "LC0111", title: "MONITOR MNBOX 18.5' POL, LED - D-MN185", price: "R$490,00" },
-    { code: "LC0081", title: "MONITOR VX PRO 19' POL", price: "R$550,00" },
+    { code: "LC0139", title: "MONITOR HAYOM 19' POL., VGA, HDMI, PRETO", price: "R$490,00" },
+    { code: "LC0081", title: " MONITOR VX PRO 21' POL., LED, VGA + HDMI, 60HZ", price: "R$650,00" },
     { code: "LC0120", title: "MONITOR MNBOX 20' POL, LED", price: "R$590,00" },
     { code: "LC0108", title: "MONITOR VX PRO 21.5' POL., LED, 60HZ", price: "R$650,00" },
     { code: "LC0038", title: "MONITOR BLUECASE 21.5' BRANCO, LED, 75Hz", price: "R$700,00" },
