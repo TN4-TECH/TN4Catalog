@@ -60,15 +60,20 @@
   ];
 
   const gpus = [
+    { code: "VG0015", title: "PCYES GT 740, 4GB", price: "R$ 750,00" },
+    { code: "VG0091", title: "DELTA GTX 750 TI, 4GB", price: "R$ 890,00" },
     { code: "VG0087", title: "PCYES GTX 750 TI, 4GB", price: "R$ 990,00" },
     { code: "VG0067", title: "RX 580 8GB", price: "R$1.390,00" },
-    { code: "VG0114", title: "GAINWARD RTX 3050 6GB", price: "R$1.790,00" },
-    { code: "VG0079", title: "PLACA DE VÍDEO ASUS RADEON RX 7600 DUAL EVO OC EDITION", price: "R$ 2.990,00" },
-    { code: "VG0117", title: "GALAX BLACK RTX 5050 8GB", price: "R$3.190,00" },
-    { code: "VG0066", title: "MSI RTX 5060 8GB MSI", price: "R$ 3.490,00" },
-    { code: "VG0115", title: "ASUS RTX 5060 TI OC PRIME, 8GB, GDDR7 ", price: "R$ 4.390,00" },
-    { code: "VG0113", title: "GAINWARD PYTHON RTX 5060TI 16GB GDDR7", price: "R$ 4.990,00" },
-    { code: "VG0071", title: "RTX 5070TI MSI 16GB, GDDR7", price: "R$ 9.490,00" },
+    { code: "VG0119", title: "PCYES RTX 3050 6GB", price: "R$1.990,00" },
+    { code: "VG0079", title: "ASUS RX 7600 DUAL EVO OC EDITION", price: "R$ 2.799,00" },
+    { code: "VG0118", title: "MSI SHADOW 2X RTX 5050 8GB", price: "R$2.950,00" },
+    { code: "VG0117", title: "GALAX BLACK RTX 5050 8GB", price: "R$3.199,00" },
+    { code: "VG0116", title: "MSI VENTUS 2X RTX 5060 8GB", price: "R$ 3.490,00" },
+    { code: "VG0066", title: "GAINWARD RTX 5060 8GB", price: "R$ 3.590,00" },
+    { code: "VG0100", title: "GIGABYTE RTX 5060 TI 8GB", price: "R$ 3.899,00" },
+    { code: "VG0115", title: "ASUS RTX 5060 TI OC PRIME 8GB", price: "R$ 4.390,00" },
+    { code: "VG0113", title: "GAINWARD PYTHON RTX 5060TI 16GB ", price: "R$ 5.390,00" },
+
   ];
 
   function copyToClipboard(product: { text: string }) {
@@ -124,7 +129,6 @@
       <button on:click={toggle}>↕ Hardware</button>
       <div class="dropdown-content {open ? 'show' : ''}">
         <a href="hardware/cpu">Processadores</a>
-        <a href="hardware/ram">Memória RAM</a>
         <a href="hardware/watercooler">Watercooler</a>
         <a href="hardware/motherboard">Placa Mãe</a>
         <a href="hardware/cabinet">Gabinetes</a>
