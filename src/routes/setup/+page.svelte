@@ -30,6 +30,13 @@
       text: "*Setup ideal para Jogos como:* \n⚡VALORANT\n💥LEAGUE OF LEGENDS\n🔫CS GO (Gráfico Medio)\n🦙 FORTNITE (Gráficos Baixos)\n🚔 GTA RP(Gráficos Baixo)\n🚚 Euro Truck Simulator 2(Gráficos Baixos)\n6️⃣ RAINBOW SIX SIEGE(Gráfico baixo)\n🔫 FREE FIRE (*Necessário configuração de Emuladores*)\n\n*Processador:* i7-3770\n*Placa Mãe:* H61 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Placa de Vídeo:* GTX 750 TI 2GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 3.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
+    // R$3.690,00
+    {
+      title: "(PC0018) SETUP i7 3ª + RX 580 8GB - R$3.690,00",
+      image: "PC0018.png",
+      text: "*Setup ideal para Jogos como:* \n⚡VALORANT\n💥LEAGUE OF LEGENDS\n🔫CS GO (Gráfico Medio)\n🦙 FORTNITE (Gráficos Baixos)\n🚔 GTA RP(Gráficos Baixo)\n🚚 Euro Truck Simulator 2(Gráficos Baixos)\n6️⃣ RAINBOW SIX SIEGE(Gráfico baixo)\n🔫 FREE FIRE (*Necessário configuração de Emuladores*)\n\n*Processador:* i7-3770\n*Placa Mãe:* H61 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER EVOLUT RGB\n*Fonte:* 500W\n\n+🖥️ Monitor 19' Pol. Seminovo\n+⌨️ TECLADO, 🖱️ MOUSE, MOUSEPAD E 🎧 HEADSET\n\n*R$ 3.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    },
+
     // R$4.090,00
     {
       title: "(PC0091) SETUP GAMER RYZEN 3 3200G",
