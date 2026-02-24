@@ -44,11 +44,11 @@
       text: "*Máquina ideal para:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n⚽ EA FC 26\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 8500G\n*Placa Mãe:* A620 MSI\n*Cooler:* WATER COOLER 240MM PCYES VISION COM TELA\n*Memória RAM:* 2X8GB (16GB) DDR5 ASGARD 5200MHZ\n*Armazenamento:* SSD 1TB\n*Fonte:* 450W 80PLUS GIGABYTE\n*Gabinete:* DRAXEN ITNHAN\n\nPOR APENAS *R$ 8.390,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
-    // R$ 9.490,00
+    // R$ 8.990,00
     {
-      title: "PC AQUARIO BRANCO RYZEN 7 5700G + RTX 5060",
-      image: "CUSTOM9490.png",
-      text: "*Máquina ideal para:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 5700G\n*Placa Mãe:* B550ZGS DUEX\n*Memória RAM:* 2x8(16GB) 3200MHZ XPG BRANCA DDR4\n*Cooler:* PCYES FROST PULSE ARGB WHITE GHOST\n*Placa de Vídeo:* RTX 5060 8GB\n*Armazenamento:* SSD NVME 500GB PRODRIVE\n*Gabinete:* 'AQUARIO' BLUECASE C/5 FANS RGB\n*Fonte:* 500W FORTREK BRANCA\n\nPOR APENAS *R$ 9.490,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+      title: "PC AQUARIO BRANCO RYZEN 7 5700G + RTX 5050",
+      image: "CUSTOM8990.png",
+      text: "*Máquina ideal para:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 5700G\n*Placa Mãe:* B550ZGS DUEX\n*Memória RAM:* 2x8(16GB) 3200MHZ XPG BRANCA DDR4\n*Cooler:* PCYES FROST PULSE ARGB WHITE GHOST\n*Placa de Vídeo:* RTX 5050 8GB\n*Armazenamento:* SSD NVME 500GB PRODRIVE\n*Gabinete:* 'AQUARIO' BLUECASE C/5 FANS RGB\n*Fonte:* 500W FORTREK BRANCA\n\nPOR APENAS *R$ 8.990,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     // R$ 11.290,00
