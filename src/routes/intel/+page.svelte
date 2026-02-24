@@ -37,19 +37,7 @@
       text: "*Máquina ideal para Jogos como:* \n  LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🟥 ROBLOX\n🚔 GTA V (Gráficos Médios)\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n\n*Processador:* i7 - 3°/4°Gen\n*Placa Mãe:* H61 (LGA 1150)\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler* RGB\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER C/ LED\n*Fonte:* 500W\n\n*R$ 3.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
-    // R$2.790,00
-    {
-      title: "i5 de 11ª (Gamdias)",
-      image: "I5-11500(GAMDIAS).png",
-      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I5-11500 (11° GEN)\n*Placa Mãe:* LGA 1200 GIGABYTE\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler*\n*Armazenamento:* NVME 256GB\n*Gabinete:*GAMDIAS AURA BRANCO C/3 FANS RGB\n*Fonte:* 500W\n\n*R$ 2.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
-
-    // R$5.490,00
-    {
-      title: "(PC00) i7 de 8ª + RTX 3050 6GB",
-      image: "HAYOMPC.png",
-      text: "*Máquina idealpara Jogos como:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I7-8700 (8ªGEN)\n*Placa Mãe:* H310 VX PRO\n*Memória RAM:* 2x8GB(16GB) DDR4 3200MHZ\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM C/3 FANS RGB\n*Fonte:* BRIGHT 650W\n\n*R$ 4.890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
-    },
+   
   ];
 
   function copyToClipboard(product: { text: string }) {

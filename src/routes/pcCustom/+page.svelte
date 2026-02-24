@@ -2,41 +2,76 @@
   import CopyButton from "$lib/CopyButton.svelte";
 
   const products = [
-    // R$ 4.690,00
+
+   // R$2.790,00
     {
-      title: "PC AQUÁRIO NINJA BRANCO RYZEN 5500 + RX 580",
-      image: "CUSTOM4690.png",
-      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* B550ZGS DUEX\n*Memória RAM:* 2x8(16GB) 3200MHZ XPG BRANCA DDR4\n*Cooler:* PCYES FROST PULSE ARGB WHITE GHOST\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD NVME 500GB PRODRIVE\n*Gabinete:* 'AQUARIO' NINJA BRANCO C/3 FANS RGB\n*Fonte:* 500W FORTREK BRANCA\n\nPOR APENAS *R$ 5.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+      title: "i5 de 11ª (Gamdias)",
+      image: "I5-11500(GAMDIAS).png",
+      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I5-11500 (11° GEN)\n*Placa Mãe:* LGA 1200 GIGABYTE\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler*\n*Armazenamento:* NVME 256GB\n*Gabinete:*GAMDIAS AURA BRANCO C/3 FANS RGB\n*Fonte:* 500W\n\n*R$ 2.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
-    // R$ 4.790,00
+     // R$ 3.390,00
     {
-      title: "PC WHITE 5600GT",
-      image: "CUSTOM4790.png",
-      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600GT\n*Placa Mãe:* B450M DUEX\n*Memória RAM:* 2x8GB(16GB) DDR4 3200MHZ\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Water Cooler:* EVOLUT LUMINI 120MM BRANCO\n*Armazenamento:* SSD 480GB\n*Gabinete:* PCYES FORCEFIELD TWR WHITE GHOST C/6 FANS\n*Fonte:* 500W FORTREK\n\nPOR APENAS *R$ 4.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+      title: "PC GAMER ROSA RYZEN 3",
+      image: "CUSTOM3390.png",
+      text: "*Máquina ideal para Jogos como:* \n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚔 GTA 5/RP\n🔫 VALORANT\n\n*Processador:* RYZEN 3 3200G\n*Placa Mãe:* A520 REVENGER\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 480GB\n*Fonte:* 500W\n*Gabinete:* MYMAX TAURUS ROSA\n\nPOR APENAS *R$ 3.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
-    // R$ 5.790,00
+    // R$5.490,00
     {
-      title: "PC PRETO HAYOM I7 9° GEN + RX 580",
+      title: "(PC00) i7 de 8ª + RX 580 8GB",
+      image: "HAYOMPC.png",
+      text: "*Máquina idealpara Jogos como:* \n 🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I7-8700 (8ªGEN)\n*Placa Mãe:* H310 VX PRO\n*Memória RAM:* 2x8GB(16GB) DDR4 3200MHZ\n*Placa de Vídeo:* RX 580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* HAYOM C/3 FANS RGB\n*Fonte:* BRIGHT 650W\n\n*R$ 5.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n",
+    },
+   
+    // R$ 6.690,00
+    {
+      title: "PC AMARELO RYZEN 5 5600GT",
+      image: "CUSTOM6690.png",
+      text: "*Máquina ideal para:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n⚽ EA FC 26\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600GT\n*Placa Mãe:* B550M ASUS TUF GAMING\n*Memória RAM:* 2X8GB (16GB) DDR4 HIKSEMI FUTURE RGB\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 512GB\n*Fonte:* 500W 80PLUS DUEX\n*Gabinete:* DELTA HYPERION\n\nPOR APENAS *R$ 6.690,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    // R$ 6.990,00
+    {
+      title: "PC PRETO COOLER MASTER I7 9° GEN + RX 580",
       image: "CUSTOM5790.png",
-      text: "*Máquina ideal para Jogos como:* \n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I7-9700 (9° Geração)\n*Placa Mãe:* H310 VX PRO\n*Memória RAM:* 2x8GB (16GB) FNX 3200Mhz DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Water Cooler:* PCYES ARGB NIX 120MM PRETO\n*Armazenamento:* SSD DUEX 480GB\n*Gabinete:* MASTERBOX COOLER MASTER\n*Fonte:* TAICON 500W\n\nPOR APENAS *R$ 5.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n⚽ EA FC 26\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I7-9700 (9° Geração)\n*Placa Mãe:* H310 VX PRO\n*Memória RAM:* 2x8GB (16GB) FNX 3200Mhz DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Water Cooler:* PCYES ARGB NIX 120MM PRETO\n*Armazenamento:* SSD DUEX 480GB\n*Gabinete:* MASTERBOX COOLER MASTER\n*Fonte:* TAICON 500W\n\nPOR APENAS *R$ 6.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    },
+        // R$ 8.390,00
+    {
+      title: "PC KALKAN RYZEN 5 8500G",
+      image: "GB0114.png",
+      text: "*Máquina ideal para:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n⚽ EA FC 26\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 8500G\n*Placa Mãe:* A620 MSI\n*Cooler:* WATER COOLER 240MM PCYES VISION COM TELA\n*Memória RAM:* 2X8GB (16GB) DDR5 ASGARD 5200MHZ\n*Armazenamento:* SSD 1TB\n*Fonte:* 450W 80PLUS GIGABYTE\n*Gabinete:* DRAXEN ITNHAN\n\nPOR APENAS *R$ 8.390,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
-    // R$ 8.090,00
+    // R$ 9.490,00
     {
-      title: "PC ALFERN I5 12° GERAÇÃO + RTX 3060",
-      image: "CUSTOM8090.png",
-      text: "*Máquina ideal para Jogos como:* \n🚘FORZA HORIZON\n🚔 GTA RP\n🔫 CSGO/VALORANT\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\n🗡 Elden Ring\n\n*Processador:* I5-12400F (12ª Geração)\n*Placa Mãe:* B660M ASROCK\n*Memória RAM:* 2X 8GB (16GB) REDRAGON SOLAR RGB DDR4 3600MHZ\n*Placa de Vídeo:* ZOTAC RTX 5050 8GB \n*Water Cooler:* KALKAN ALPHA 360MM PRETO\n*Armazenamento:* SSD NVME PRODRIVE 500GB\n*Gabinete:* KALKAN ALFERN\n*Fonte:* TAICON 700W 80PLUS\n\nPOR APENAS *R$ 8.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+      title: "PC AQUARIO BRANCO RYZEN 7 5700G + RTX 5060",
+      image: "CUSTOM9490.png",
+      text: "*Máquina ideal para:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 5700G\n*Placa Mãe:* B550ZGS DUEX\n*Memória RAM:* 2x8(16GB) 3200MHZ XPG BRANCA DDR4\n*Cooler:* PCYES FROST PULSE ARGB WHITE GHOST\n*Placa de Vídeo:* RTX 5060 8GB\n*Armazenamento:* SSD NVME 500GB PRODRIVE\n*Gabinete:* 'AQUARIO' BLUECASE C/5 FANS RGB\n*Fonte:* 500W FORTREK BRANCA\n\nPOR APENAS *R$ 9.490,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
-    // R$ 14.990,00
+    // R$ 11.290,00
     {
-      title: "(PC0065)PC GAMER RYZEN 5 7500F + RTX 4070",
-      image: "CUSTOM14990.png",
-      text: "*Máquina ideal para Jogos como:* \n🔫 VALORANT\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\n🗡 Elden Ring\n\n*Processador:* RYZEN 5 7500F\n*Placa Mãe:* A620M MSI\n*Memória RAM:* 2x8GB (16GB) DDR5 ASGARD 5200Mhz\n*Placa de Vídeo:* RTX 4070 SUPER 12GBn*Armazenamento:* SSD NVME 1TB REDRAGON\n*Gabinete:* ACER V951\n*Fonte:* TAICON 700W 80Plus\n*FANS:* 2x KIT ARGB REVENGER\n*Water Cooler:* PCYES VISION ULTRA\n\nPOR APENAS *R$ 14.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+      title: "PC KALKAN I7 12700F + RTX 5060",
+      image: "CUSTOM11290.png",
+      text: "*Máquina ideal para:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I7-12700F (12ª Geração)\n*Placa Mãe:* B760M MSI\n*Memória RAM:* 16GB DDR5 RISE MODE\n*Placa de Vídeo:* GAINWARD RTX 5060 8GB\n*Water Cooler:* KALKAN ALPHA 360MM PRETO\n*Armazenamento:* SSD NVME 500GB\n*Gabinete:* KALKAN ALFERN\n*Fonte:* TAICON 700W 80PLUS\n\nPOR APENAS *R$ 11.290,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
+
+   // R$ 12.590,00
+
+    {
+      title: "PC DELTA VERDE RYZEN 5500 + RTX 5050",
+      image: "CUSTOM12590.png",
+      text: "*Máquina ideal para:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5500\n*Placa Mãe:* B550M ASUS TUF GAMING\n*Cooler:* WATER COOLER 360MM SEGOTEP\n*Memória RAM:* 2X16GB (32GB) DDR4 BRANCA XPG\n*Placa de Vídeo:* RTX 5050 8GB\n*Armazenamento:* NVME 1TB\n*Fonte:* 700W 80PLUS\n*Gabinete:* DELTA VERDE C/3 FANS\n\nPOR APENAS *R$ 12.590,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+
+
+
   ];
+
+ 
 
   function copyToClipboard(product: { text: string }) {
     navigator.clipboard.writeText(product.text);
