@@ -2,25 +2,46 @@
   import CopyButton from "$lib/CopyButton.svelte"
 
   const products = [
+    // R$4.390,00
+    {
+     title: "(PC01) SETUP ROSA",
+     image: "SetupRosa.png",
+     text: "*Máquina ideal para Jogos como:*\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚔 GTA 5/RP\n🔫 VALORANT\n\n*Processador:* RYZEN 3 3200G\n*Placa Mãe:* A520 REVENGER\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 480GB\n*Fonte:* 500W\n*Gabinete:* MYMAX TAURUS ROSA\n\n+ MONITOR 21.5 ROSA MYMAX \n+ TECLADO MECANICO ROSA DAZZ ORION \n+ MOUSE REDRAGON LULUCA \n+ HEADSET REDRAGON LULUCA \n+ MOUSEPAD REDRAGON LULUCA\n+ SUPORTE HEADSET REDRAGON SCEPTER \n\nPOR APENAS *R$ 4.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    },
+
     // R$4.790,00
     {
-     title: "(PC00) SETUP RYZEN 5600GT ROSE",
-     image: "PinkSetup.png",
-     text: "*Setup ideal para Jogos como:*\n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 WARZONE(GRÁFICOS Médios)\n🔫 CS2\n🦙 FORTNITE\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600GT\n*Memória RAM:* 2x8GB DDR4 *(16GB)*\n*Placa de Vídeo:* VEGA 7 (INTEGRADA)\n*Cooler:* Box Hoopson RGB\n*Armazenamento:* SSD 480GB\n*Gabinete:* MYMAX ROSA LION C/LED RGB\n*Fonte:* 500W\n+ 🖥️ Monitor MYMAX ROSA 21.5' POL.\n+ Kit Gamer Redragon Luluca (Mouse, Teclado, Mousepad e Headset)\n+ Suporte de Headset Redragon Scepter\n\nPOR APENAS *R$ 4.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+     title: "(PC00) SETUP BRANCO",
+     image: "SetupBranco.png",
+     text: "*Máquina ideal para Jogos como:*\n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I5-11500 (11° GEN)\n*Placa Mãe:* LGA 1200 GIGABYTE\n*Memória RAM:* 2x8GB(16GB)\n*Cooler:* Air Cooler\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMDIAS AURA BRANCO C/3 FANS RGB\n*Fonte:* 500W\n\n+ KIT GAMER EVOLUT (TECLADO, MOUSE, HEADSET)\n+ MOUSEPAD RGB DRAXEN 35X40 \n+ SUPORTE DE HEADSET REDRAGON SCEPTER \n+ MONITOR 24'POL OFFICE BLUECASE \n\n*R$ 4.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
-    // R$7.790,00
+    // R$9.390,00
     {
-     title: "(PC00) SETUP RYZEN 5500 OFF WHITE",
-     image: "SetupOFFWhite.png",
-    text: "*Setup ideal para Jogos como:*\n🚔 GTA 5/RP\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Placa Mãe:* B550ZGS DUEX\n*Processador:* RYZEN 5 5500\n*Memória RAM:* 2x8(16GB) 3200MHZ XPG BRANCA DDR4\n*Placa de Vídeo:* RX 580 8GB\n*Cooler:* PCYES FROST PULSE ARGB WHITE GHOST\n*Armazenamento:* SSD NVME 500GB PRODRIVE\n*Gabinete:* 'AQUARIO' NINJA BRANCO C/3 FANS RGB\n*Fonte:* FORTREK BRANCA\n+ 🖥️ Monitor ERAS 23,8POL 100HZ CURVO BRANCO\n+ Kit Gamer KIT GAMER EVOLUT LUMINI (TECLADO, MOUSE E HEADSET) & MOUSEPAD TOMATE 90X40 CINZA\n+SUPORTE DE HEADSET REDRAGON SCEPTER\n\nPOR APENAS *R$ 7.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+     title: "(PC03) SETUP AMARELO",
+     image: "SetupAmarelo.png",
+     text: "*Máquina ideal para:*\n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n⚽ EA FC 26\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600GT\n*Placa Mãe:* B550M ASUS TUF GAMING\n*Memória RAM:* 2X8GB (16GB) DDR4 HIKSEMI FUTURE RGB\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 512GB\n*Fonte:* 500W 80PLUS DUEX\n*Gabinete:* DELTA HYPERION\n\n+ MONITOR KALKAN FENRYR 144HZ 27'POL \n+ MOUSE REDRAGON KING PRO WORLD OF WARCRAFT \n+ TECLADO MECANICO REDRAGON WORLD OF WARCRAFT \n+ MOUSEPAD REDRAGON HARRY POTTER 90X40 \n\nPOR APENAS *R$ 9.390,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
-    // R$12.490,00
+    // R$11.190,00
     {
-     title: "(PC00) SETUP RYZEN I5 de 12ªGEN BLACK",
-     image: "SetupBlack.png",
-    text: "*Setup ideal para Jogos como:*\n🚘FORZA HORIZON\n🚔 GTA RP\n🔫 CS2/VALORANT\n🦙 FORTNITE\n🐎 Red Dead Redemption 2\n🗡 Elden Ring\n\n*Placa Mãe:* B660M ASROCK\n*Processador:* I5-12400F (12ª Geração)\n*Memória RAM:* 2X 8GB (16GB) REDRAGON SOLAR RGB DDR4 3600MHZ\n*Placa de Vídeo:* ZOTAC RTX 5050 8GB \n*Water Cooler:* KALKAN ALPHA 360MM PRETO\n*Armazenamento:* SSD NVME PRODRIVE 500GB\n*Gabinete:* KALKAN ALFERN\n*Fonte:* TAICON 700W 80PLUS\n+ 🖥️ Monitor TAURUS PRO 23.8POL IPS 180HZ & VX PRO 21.5POL 75HZ\n+ SUPORTE ARTICULADO PARA 2 MONITORES FORTREK\n+ TECLADO MECÂNICO REDRAGON SINDRI\n+ MOUSE REDRAGON STORM ELITE\n+ HEADSET REDRAGON NIREUS\n+ HEADSET REDRAGON NIREUS\n+ MICROFONE CONDENSADOR PCYES VOCALIZER\n+ SOUNDBAR C3TECH MARROM\n+ MOUSEPAD FORTREK DE COURO PREMIUM\n\nPOR APENAS *R$12.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+     title: "(PC02) SETUP BRANCO AQUARIO",
+     image: "SetupBrancoAquario.png",
+     text: "*Máquina ideal para:*\n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 5700G\n*Placa Mãe:* B550ZGS DUEX\n*Memória RAM:* 2x8(16GB) 3200MHZ XPG BRANCA DDR4\n*Cooler:* PCYES FROST PULSE ARGB WHITE GHOST\n*Placa de Vídeo:* RTX 5050 8GB\n*Armazenamento:* SSD NVME 500GB PRODRIVE\n*Gabinete:* 'AQUARIO' BLUECASE C/5 FANS RGB\n*Fonte:* 500W FORTREK BRANCA\n\n+ MONITOR BLUECASE ERAS 23.8'POL 100HZ CURVO BRANCO\n+ TECLADO MECANICO FORTREK GRAVITY 100 BRANCO \n+ MOUSE FORTREK STRIKER BRANCO \n+ MOUSEPAD PCYES BRANCO 90X40 \n+ HEADSET REDRAGON CADMUS BRANCO\n\nPOR APENAS *R$ 11.190,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    // R$13.230,00
+    {
+     title: "(PC04) SETUP DDR5 INTEL",
+     image: "SetupDDR5Intel.png",
+     text: "*Máquina ideal para:*\n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* I7-12700F (12ª Geração)\n*Placa Mãe:* B760M MSI\n*Memória RAM:* 16GB DDR5 RISE MODE\n*Placa de Vídeo:* GAINWARD RTX 5060 8GB\n*Water Cooler:* KALKAN ALPHA 360MM PRETO\n*Armazenamento:* SSD NVME 500GB\n*Gabinete:* KALKAN ALFERN\n*Fonte:* TAICON 700W 80PLUS\n\n+ MONITOR 24.5'POL 180HZ GRASEP\n+ TECLADO MECANICO FORTREK GRAVITY 80%\n+ MOUSE REDRAGON COBRA FPS \n+ MOUSEPAD FORTREK 80X30 \n\nPOR APENAS *R$ 13.230,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    },
+
+    // R$21.390,00
+    {
+     title: "(PC05) SETUP VERDE",
+     image: "SetupVerde.png",
+     text: "*Máquina ideal para:*\n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5500\n*Placa Mãe:* B550M ASUS TUF GAMING\n*Cooler:* WATER COOLER 360MM SEGOTEP\n*Memória RAM:* 2X16GB (32GB) DDR4 BRANCA XPG\n*Placa de Vídeo:* RTX 5050 8GB\n*Armazenamento:* NVME 1TB\n*Fonte:* 700W 80PLUS\n*Gabinete:* DELTA VERDE C/3 FANS\n\n+ MONITOR DUEX 49'POL ULTRAWIDE 240HZ CURVO \n+ SIMULADOR VOLANTE KALKAN G500 PRO RACING FORCEFEEDBACK \n+ TECLADO MAGNÉTICO REDRAGON KUMARA PRO \n+ MOUSE REDRAGON DEVOURER \n+ HEADSET KALKAN MAGNI \n\nPOR APENAS *R$ 21.390,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
   ]
 
