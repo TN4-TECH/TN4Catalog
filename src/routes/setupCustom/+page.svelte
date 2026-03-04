@@ -2,25 +2,25 @@
   import CopyButton from "$lib/CopyButton.svelte"
 
   const products = [
-    // R$4.390,00
+    // R$5.280,00
     {
      title: "(PC00) SETUP ROSA",
      image: "SETUPROSA.png",
-     text: "*Máquina ideal para Jogos como:*\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚔 GTA 5/RP\n🔫 VALORANT\n\n*Processador:* RYZEN 3 3200G\n*Placa Mãe:* A520 REVENGER\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 480GB\n*Fonte:* 500W\n*Gabinete:* MYMAX TAURUS ROSA\n\n+ MONITOR 21.5 ROSA MYMAX \n+ TECLADO MECANICO ROSA DAZZ ORION \n+ MOUSE REDRAGON LULUCA \n+ HEADSET REDRAGON LULUCA \n+ MOUSEPAD REDRAGON LULUCA\n+ SUPORTE HEADSET REDRAGON SCEPTER \n\nPOR APENAS *R$ 4.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+     text: "*Máquina ideal para Jogos como:*\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚔 GTA 5/RP\n🔫 VALORANT\n\n*Processador:* RYZEN 3 3200G\n*Placa Mãe:* A520 REVENGER\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 480GB\n*Fonte:* 500W\n*Gabinete:* MYMAX TAURUS ROSA\n\n+ MONITOR 21.5 ROSA MYMAX \n+ TECLADO MECANICO ROSA DAZZ ORION \n+ MOUSE REDRAGON LULUCA \n+ HEADSET REDRAGON LULUCA \n+ MOUSEPAD REDRAGON LULUCA\n+ SUPORTE HEADSET REDRAGON SCEPTER\n+ CADEIRA GAMER ROSA DUEX \n\nPOR APENAS *R$ 5.280,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
-    // R$4.790,00
+    // R$5.840,00
     {
      title: "(PC01) SETUP BRANCO",
      image: "SETUPBRANCO.png",
-     text: "*Máquina ideal para Jogos como:*\n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I5-11500 (11° GEN)\n*Placa Mãe:* LGA 1200 GIGABYTE\n*Memória RAM:* 2x8GB(16GB)\n*Cooler:* Air Cooler\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMDIAS AURA BRANCO C/3 FANS RGB\n*Fonte:* 500W\n\n+ KIT GAMER EVOLUT (TECLADO, MOUSE, HEADSET)\n+ MOUSEPAD RGB DRAXEN 35X40 \n+ SUPORTE DE HEADSET REDRAGON SCEPTER \n+ MONITOR 24'POL OFFICE BLUECASE \n\n*R$ 4.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+     text: "*Máquina ideal para Jogos como:*\n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I5-11500 (11° GEN)\n*Placa Mãe:* LGA 1200 GIGABYTE\n*Memória RAM:* 2x8GB(16GB)\n*Cooler:* Air Cooler\n*Armazenamento:* NVME 256GB\n*Gabinete:* GAMDIAS AURA BRANCO C/3 FANS RGB\n*Fonte:* 500W\n\n+ KIT GAMER EVOLUT (TECLADO, MOUSE, HEADSET)\n+ MOUSEPAD RGB DRAXEN 35X40 \n+ SUPORTE DE HEADSET REDRAGON SCEPTER \n+ MONITOR 24'POL OFFICE BLUECASE\n+ CADEIRA GAMER PCYES CONFORT KALAHARI  \n\n*R$ 5.840,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
-    // R$9.390,00
+    // R$10.780,00
     {
      title: "(PC02) SETUP AMARELO",
      image: "SETUPAMARELO.png",
-     text: "*Máquina ideal para:*\n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n⚽ EA FC 26\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600GT\n*Placa Mãe:* B550M ASUS TUF GAMING\n*Memória RAM:* 2X8GB (16GB) DDR4 HIKSEMI FUTURE RGB\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 512GB\n*Fonte:* 500W 80PLUS DUEX\n*Gabinete:* DELTA HYPERION\n\n+ MONITOR KALKAN FENRYR 144HZ 27'POL \n+ MOUSE REDRAGON KING PRO WORLD OF WARCRAFT \n+ TECLADO MECANICO REDRAGON WORLD OF WARCRAFT \n+ MOUSEPAD REDRAGON HARRY POTTER 90X40 \n\nPOR APENAS *R$ 9.390,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+     text: "*Máquina ideal para:*\n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n⚽ EA FC 26\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* RYZEN 5 5600GT\n*Placa Mãe:* B550M ASUS TUF GAMING\n*Memória RAM:* 2X8GB (16GB) DDR4 HIKSEMI FUTURE RGB\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 512GB\n*Fonte:* 500W 80PLUS DUEX\n*Gabinete:* DELTA HYPERION\n\n+ MONITOR KALKAN FENRYR 144HZ 27'POL \n+ MOUSE REDRAGON KING PRO WORLD OF WARCRAFT \n+ TECLADO MECANICO REDRAGON WORLD OF WARCRAFT \n+ MOUSEPAD REDRAGON HARRY POTTER 90X40\n+ CADEIRA GAMER PCYES RACER V8 AMARELA \n\nPOR APENAS *R$ 10.780,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
     // R$11.190,00
