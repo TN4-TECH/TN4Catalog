@@ -1,0 +1,14 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .button {
+        @apply flex items-center justify-center bg-black hover:bg-neutral-700 active:bg-neutral-900 disabled:bg-black transition-colors disabled:opacity-60 text-white px-3 py-2 rounded font-bold
+    }
+}
+
+.font-mono-emoji {
+    font-family: Consolas, "Segoe UI Emoji"
+}
