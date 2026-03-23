@@ -182,7 +182,7 @@
           <span class="text-sm tracking-wider">COPIAR TODOS</span>
         </CopyButton>
       </div>
-      <table class="border border-neutral-300 w-full">
+      <table class="border border-neutral-300 w-full product-table">
         {#each monitors as monitor}
           <tr class="group border border-neutral-300">
             <th class="text-left border border-neutral-300 p-2 bg-neutral-100"
@@ -213,7 +213,7 @@
           <span class="text-sm tracking-wider">COPIAR TODOS</span>
         </CopyButton>
       </div>
-      <table class="border border-neutral-300 w-full">
+      <table class="border border-neutral-300 w-full product-table">
         {#each gpus as gpu}
           <tr class="border border-neutral-300">
             <th class="text-left border border-neutral-300 p-2 bg-neutral-100"

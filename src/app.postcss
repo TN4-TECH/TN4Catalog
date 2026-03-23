@@ -5,7 +5,7 @@
   --color-accent: #ffb86b; /* cor secundária para destaques */
   --color-bg: #0f1724; /* fundo escuro discreto */
   --color-surface: #0b1220; /* superfícies/card */
-  --color-muted: #94a3b8; /* texto secundário */
+  --color-muted: #000000; /* texto secundário */
   --color-success: #28a745;
   --color-danger: #ef4444;
   --radius-md: 0.5rem;
@@ -18,12 +18,35 @@
 
 @layer components {
     .button {
-        @apply flex items-center justify-center bg-black hover:bg-neutral-700 active:bg-neutral-900 disabled:bg-black transition-colors disabled:opacity-60 text-white px-3 py-2 rounded font-bold
+                @apply flex items-center justify-center bg-black hover:bg-neutral-700 active:bg-neutral-900 disabled:bg-black transition-colors disabled:opacity-60 text-white px-3 py-2 rounded font-bold
     }
 }
 
 .font-mono-emoji {
     font-family: Consolas, "Segoe UI Emoji"
+}
+
+/* Forçar texto preto e fundo branco nas tabelas de produtos para garantir legibilidade */
+@layer components {
+    .product-table {
+        @apply w-full;
+    }
+
+    .product-table th,
+    .product-table td {
+        background-color: white;
+        color: black;
+        padding: 0.5rem;
+        border: 1px solid #e5e7eb;
+    }
+
+    .product-table th {
+        @apply text-left bg-white font-medium;
+    }
+
+    .product-desc {
+        color: black;
+    }
 }
 
 :root {
@@ -33,7 +56,7 @@
     --color-accent: #ffb86b; /* cor secundária para destaques */
     --color-bg: #0f1724; /* fundo escuro discreto */
     --color-surface: #0b1220; /* superfícies/card */
-    --color-muted: #94a3b8; /* texto secundário */
+    --color-muted: #000000; /* texto secundário */
     --color-success: #28a745;
     --color-danger: #ef4444;
     --radius-md: 0.5rem;
@@ -42,7 +65,7 @@
 @layer base {
     html, body {
         background-color: var(--color-bg);
-        color: #e6eef6;
+        color: #000000;
         -webkit-font-smoothing:antialiased;
         -moz-osx-font-smoothing:grayscale;
     }

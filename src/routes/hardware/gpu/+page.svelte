@@ -52,7 +52,7 @@
       </CopyButton>
     </div>
 
-    <table class="border border-neutral-300 w-full">
+    <table class="border border-neutral-300 w-full product-table">
       {#each gpus as gpu}
         <tr class="border border-neutral-300">
           <th class="text-left border border-neutral-300 p-2 bg-neutral-100">{gpu.code} | {gpu.title}</th>
