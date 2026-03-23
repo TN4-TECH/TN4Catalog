@@ -1,12 +1,25 @@
+:root {
+  /* Palette inspirado no site de referência */
+  --color-primary: #00bcd4; /* tom ciano/accent */
+  --color-primary-600: #039aa8;
+  --color-accent: #ffb86b; /* cor secundária para destaques */
+  --color-bg: #0f1724; /* fundo escuro discreto */
+  --color-surface: #0b1220; /* superfícies/card */
+  --color-muted: #94a3b8; /* texto secundário */
+  --color-success: #28a745;
+  --color-danger: #ef4444;
+  --radius-md: 0.5rem;
+}
+
 /* Write your global styles here, in PostCSS syntax */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer components {
-        .button {
-                @apply flex items-center justify-center bg-primary text-white hover:bg-primary-600 active:opacity-90 disabled:opacity-60 transition-colors duration-250 px-3 py-2 rounded font-semibold
-        }
+    .button {
+        @apply flex items-center justify-center bg-black hover:bg-neutral-700 active:bg-neutral-900 disabled:bg-black transition-colors disabled:opacity-60 text-white px-3 py-2 rounded font-bold
+    }
 }
 
 .font-mono-emoji {
