@@ -132,7 +132,6 @@
         <a href="hardware/watercooler">Watercooler</a>
         <a href="hardware/motherboard">Placa Mãe</a>
         <a href="hardware/cabinet">Gabinetes</a>
-        <a href="hardware/GPU">Placas de Vídeo</a>
       </div>
     </div>
   </div>
