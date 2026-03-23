@@ -76,7 +76,7 @@
           <span class="text-sm tracking-wider">COPIAR TODOS</span>
         </CopyButton>
       </div>
-      <table class="border border-neutral-300 w-full product-table">
+      <table class="border border-neutral-300 w-full">
         {#each intel as Intel}
           <tr class="group border border-neutral-300">
             <th class="text-left border border-neutral-300 p-2 bg-neutral-100"
@@ -107,7 +107,7 @@
           <span class="text-sm tracking-wider">COPIAR TODOS</span>
         </CopyButton>
       </div>
-      <table class="border border-neutral-300 w-full product-table">
+      <table class="border border-neutral-300 w-full">
         {#each amd as Amd}
           <tr class="border border-neutral-300">
             <th class="text-left border border-neutral-300 p-2 bg-neutral-100"
