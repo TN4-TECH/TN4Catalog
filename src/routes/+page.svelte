@@ -73,6 +73,8 @@
     { code: "VG0100", title: "GIGABYTE RTX 5060 TI 8GB", price: "R$ 3.899,00" },
     { code: "VG0115", title: "ASUS RTX 5060 TI OC PRIME 8GB", price: "R$ 4.390,00" },
     { code: "VG0113", title: "GAINWARD PYTHON RTX 5060TI 16GB ", price: "R$ 5.390,00" },
+    { code: "VG0069", title: "ASROCK RADEON RX 6600 CHALLENGER D, 8GB, GDDR6, 128BITS", price: "R$ 2.490,00" },
+
 
   ];
 
