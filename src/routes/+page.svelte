@@ -43,6 +43,8 @@
     { code: "LC0109", title: "MONITOR VX PRO 23' POL", price: "R$800,00" },
     { code: "LC0014", title: "MONITOR BLUECASE 23.6', BRANCO", price: "R$990,00" },
     { code: "LC0110", title: "MONITOR VX PRO 24' POL., LED 60HZ", price: "R$900,00" },
+    { code: "LC0141", title: "MONITOR GAMER BLUECASE TRACE 23,8, CURVO, BRANCO, 75HZ", price: "R$969,90" },
+    { code: "LC0142", title: "MONITOR GAMER BLUECASE TRACE 23,8, CURVO, PRETO, 75HZ", price: "R$969,90" },
     { code: "LC0077", title: "MONITOR OFFICE BRIGHT, 27' POL 5MS", price: "R$1.050,00" },
     { code: "LC0000", title: "MONITOR GRASEP LED 24.5', 100HZ, 1MS", price: "R$1.059,00" },
     { code: "LC0101", title: "MONITOR GRASEP LED 24.5', 180HZ, 1MS", price: "R$1.290,00" },
