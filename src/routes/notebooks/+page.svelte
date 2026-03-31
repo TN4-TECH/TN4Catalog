@@ -4,26 +4,12 @@
   import IconCopy from "$lib/icons/copy.svelte";
 
   const products = [
-
-      //R$2.399,99
-    {
-      title: "(NT0084) DELL LATITUDE 3400",
-      image: "NT0084.png",
-      text: "💻 DELL LATITUDE 3400\n\n*Processador:* i5-8265U (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL\n(Acompanha Fonte)\n\n*POR APENAS R$2.400,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
-   
+  
     //R$2.690,90
     {
       title: "(NT0068) LENOVO THINKPAD E490 ",
       image: "NT0080.png",
       text: "💻 NOTEBOOK LENOVO THINKPAD E490\n\n*Processador:* i5 (5ªGEN)\n*Memória RAM:* 8GB DDR3 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.590,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
-
-    //R$2.990,90
-    {
-      title: "(NT0068) LENOVO THINKPAD T490 ",
-      image: "NT0080.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD T490\n\n*Processador:* i7  (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$2.990,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
   ];
