@@ -12,9 +12,16 @@
       text: "💻 NOTEBOOK HP ELITEBOOK 840\n\n*Processador:* i5 (10ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* TOUCHSCREEN.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.890,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
+    //R$ 2.590,00 
+    { 
+      title: "(NT0051)  NOTEBOOK DELL LATITUDE 5420 ",
+      image: "NT0051.png",
+      text: "💻 NOTEBOOK DELL LATITUDE 5420\n\n*Processador:* i5 (7ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$  2.590,00 * em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    },
+
 //R$2.890,00
     { 
-      title: "(NT0021)  NOTEBOOK HP ELITEBOOK 840 G8 ",
+      title: "(NT0091)  NOTEBOOK HP ELITEBOOK 840 G8 ",
       image: "NT0021.png",
       text: "💻 NOTEBOOK HP ELITEBOOK 840\n\n*Processador:* i5 (11ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* TOUCHSCREEN.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.890,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
