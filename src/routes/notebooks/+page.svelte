@@ -33,6 +33,13 @@
       text: "💻 NOTEBOOK LENOVO THINKPAD E490\n\n*Processador:* i5 (5ªGEN)\n*Memória RAM:* 8GB DDR3 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$1.590,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
+//R$ 2.890,00
+    {
+      title: "(NT0085) DELL PRATA I5 10ªGEN ",
+      image: "NT0085.png",
+      text: "💻 NOTEBOOK DELL PRATA \n\n*Processador:* i5 (10ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.890,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    },
+
 //R$2.890,00
     { 
       title: "(NT0091)  NOTEBOOK HP ELITEBOOK 840 G8 ",
