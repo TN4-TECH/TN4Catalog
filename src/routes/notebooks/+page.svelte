@@ -13,7 +13,7 @@
     },
 
 
-    //R$2.690,90
+    //R$1.590,00
     {
       title: "(NT0068) LENOVO THINKPAD E490 ",
       image: "NT0080.png",
