@@ -6,12 +6,18 @@
   const products = [
 
  //R$2.890,00
-{ 
+    { 
       title: "(NT0021)  NOTEBOOK HP ELITEBOOK 840 ",
       image: "NT0021.png",
       text: "💻 NOTEBOOK HP ELITEBOOK 840\n\n*Processador:* i5 (10ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* TOUCHSCREEN.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.890,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
+//R$2.890,00
+    { 
+      title: "(NT0021)  NOTEBOOK HP ELITEBOOK 840 G8 ",
+      image: "NT0021.png",
+      text: "💻 NOTEBOOK HP ELITEBOOK 840\n\n*Processador:* i5 (11ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* TOUCHSCREEN.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.890,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    },
 
     //R$1.590,00
     {
