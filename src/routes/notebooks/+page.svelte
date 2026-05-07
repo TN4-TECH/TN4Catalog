@@ -12,14 +12,7 @@
       text: "💻 NOTEBOOK DELL LATITUDE 5420\n\n*Processador:* i5 (7ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$  2.590,00 * em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
-    //R$2.690,00
-    { 
-      title: "(NT0099)   NOTEBOOK LENOVO B330  ",
-      image: "NT0099.png",
-      text: "💻 NOTEBOOK LENOVO B330\n\n*Processador:* i5 (8ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* 15.6' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.690,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
-
-   //R$2.890,00
+      //R$2.890,00
     { 
       title: "(NT0021)  NOTEBOOK HP ELITEBOOK 840 ",
       image: "NT0021.png",
