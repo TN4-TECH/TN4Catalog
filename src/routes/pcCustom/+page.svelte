@@ -54,7 +54,7 @@
     // R$ 10.990,00
     {
       title: "PC BRANCO RYZEN 7 5800XT + RTX 5060TI",
-      image: "CUSTOM5898.png",
+      image: "CUSTOM5790.png",
       text: "*Máquina ideal para:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 7 5800XT\n*Placa Mãe:* B550 AORUS ELITE\n*Memória RAM:* 1X16GB 3200MHZ XPG BRANCA DDR4\n*Cooler:* AIR COOLER DRAXEN DUAL FANS DN31\n*KIT FANS FORTREK FROSTY (BRANCO)\n*Placa de Vídeo:* RTX 5060 TI 8GB\n*SUPORTE PLACA DE VIDEO ARGB REDRAGON (BRANCO)\n*Armazenamento:* SSD NVME 1TB\n*Gabinete:* ADATA XPG STARKER (BRANCO)\n*Fonte:* 600W 80PLUS\n\nPOR APENAS *R$ 10.990,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
     },
 
