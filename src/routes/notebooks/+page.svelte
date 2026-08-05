@@ -33,9 +33,7 @@
       image: "NT0052.png",
       text: "💻 NOTEBOOK LENOVO THINKPAD L14 GEN2 INTEL CORE I5 - 11ª GERAÇÃO\n\n*Processador:* i5 (11ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$ 3.240,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
-
-
-      ];
+   ];
 
   function copyToClipboard(product: { text: string }) {
     navigator.clipboard.writeText(product.text);
