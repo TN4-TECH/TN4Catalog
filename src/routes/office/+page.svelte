@@ -4,19 +4,18 @@
   const products = [
     
     // R$1.390,00
-    {
-      title: "(DT0015) DESKTOP HP ELITEDESK 8300",
-      image: "DT0015.png",
-      text: "*Processador:* INTEL CORE I7-2ªGEN (2ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n\nPor apenas *R$1.390,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
+    //{
+      //title: "(DT0015) DESKTOP HP ELITEDESK 8300",
+      //image: "DT0015.png",
+      //text: "*Processador:* INTEL CORE I7-2ªGEN (2ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n\nPor apenas *R$1.390,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    //},
 
-// R$1.490,00
+    // R$1.490,00
     {
       title: "(DT0012) DESKTOP LENOVO THINKCENTRE M92P",
       image: "DT0012.png",
       text: "*Processador:* AMD A8 \n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 120GB\n\nPor apenas *R$1.490,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
-
 
     // R$1.490,00
     {
@@ -25,22 +24,19 @@
       text: "*Processador:* INTEL I7-4° (4ªGEN)\n*Memória RAM:* 8GB DDR3\n*Armazenamento:* SSD 120GB\n\nPor apenas *R$1.490,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
-    
     // R$ 1.790,00
     {
       title: "(DT0087)Lenovo Thinkcentre M910",
       image: "DT0087.png",
       text: "*Placa Mãe:* \n*Processador:* Intel i7 de 6ª Geração\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 120GB\n~ Por apenas *R$1.790,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    
     },
 
-  // R$1.990,00
-     {
-      title: "(DT0017) DESKTOP LENOVO THINKCENTRE",
-      image: "DT0017.png",
-      text: "*Processador:* INTEL I7-7ª (7ªGEN)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 120GB\n\nPor apenas *R$1.990,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
-  
+    // R$1.990,00
+  //{
+      //title: "(DT0017) DESKTOP LENOVO THINKCENTRE",
+      //image: "DT0017.png",
+      //text: "*Processador:* INTEL I7-7ª (7ªGEN)\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 120GB\n\nPor apenas *R$1.990,00*em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+  //},
 
 ];
 

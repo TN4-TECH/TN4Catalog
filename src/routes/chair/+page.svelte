@@ -31,11 +31,11 @@
     },
 
     //R$890,00
-    {
-      title: "(CA0061) CADEIRA GAMER DUEX BRANCO/PRETO",
-      image: "CA0061.png",
-      text: "*CADEIRA GAMER DUEX BRANCO/PRETO*\n\nEspecificações: \n- Largura do encosto: 50,5 cm\n- Largura do assento: 50,0 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "(CA0061) CADEIRA GAMER DUEX BRANCO/PRETO",
+      //image: "CA0061.png",
+      //text: "*CADEIRA GAMER DUEX BRANCO/PRETO*\n\nEspecificações: \n- Largura do encosto: 50,5 cm\n- Largura do assento: 50,0 cm\n- Largura de apoio de braço: 64,0 cm\n- Materiais: Tecido, espuma de alta densidade no encosto e no assento\n- Peso suportado: 120kg\n\nPor apenas *R$890,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
     //R$1.190,00
     //{

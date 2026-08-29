@@ -5,34 +5,33 @@
 
   const products = [
 
-    //R$ 1.890,00 
+  //R$ 1.890,00 
     { 
       title: "(NT0051)  NOTEBOOK HP I5 6ªGEN ",
       image: "NT0051.png",
       text: "💻 NOTEBOOK HP I5 6ªGEN\n\n*Processador:* i5 (6ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$  1.890,00 * em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
-      //R$2.690,00
-    { 
-      title: "(NT0021)  NOTEBOOK HP 240 G7 CINZA INTEL I5 10ªGEN ",
-      image: "NT0021.png",
-      text: "💻 NOTEBOOK HP 240 G7 CINZA INTEL I5 10ªGEN\n\n*Processador:* i5 (10ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* TELA 14.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.690,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
+  //R$2.690,00
+    //{ 
+      //title: "(NT0021)  NOTEBOOK HP 240 G7 CINZA INTEL I5 10ªGEN ",
+      //image: "NT0021.png",
+      //text: "💻 NOTEBOOK HP 240 G7 CINZA INTEL I5 10ªGEN\n\n*Processador:* i5 (10ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 240GB\n*Tela:* TELA 14.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.690,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    //},
 
-   
   //R$2.890,00
-    { 
-      title: "(NT0091)  NOTEBOOK HP ELITEBOOK 840 G8 ",
-      image: "NT0091.png",
-      text: "💻 NOTEBOOK HP ELITEBOOK 840\n\n*Processador:* i5 (11ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* TOUCHSCREEN.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.890,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
+    //{ 
+      //title: "(NT0091)  NOTEBOOK HP ELITEBOOK 840 G8 ",
+      //image: "NT0091.png",
+      //text: "💻 NOTEBOOK HP ELITEBOOK 840\n\n*Processador:* i5 (11ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* TOUCHSCREEN.\n(Acompanha Fonte)\n\n*POR APENAS R$ 2.890,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    //},
 
-    //R$ 3.240,00
-    { 
-      title: "(NT0052)  NOTEBOOK LENOVO THINKPAD L14 GEN2 INTEL CORE I5 - 11ª GERAÇÃO ",
-      image: "NT0052.png",
-      text: "💻 NOTEBOOK LENOVO THINKPAD L14 GEN2 INTEL CORE I5 - 11ª GERAÇÃO\n\n*Processador:* i5 (11ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$ 3.240,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
+  //R$ 3.240,00
+    //{ 
+      //title: "(NT0052)  NOTEBOOK LENOVO THINKPAD L14 GEN2 INTEL CORE I5 - 11ª GERAÇÃO ",
+      //image: "NT0052.png",
+      //text: "💻 NOTEBOOK LENOVO THINKPAD L14 GEN2 INTEL CORE I5 - 11ª GERAÇÃO\n\n*Processador:* i5 (11ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$ 3.240,00* em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    //},
    ];
 
   function copyToClipboard(product: { text: string }) {

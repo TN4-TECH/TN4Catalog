@@ -58,7 +58,7 @@
     { code: "LC0082", title: "MONITOR GRASEP 30'POL. 2K, 100HZ, ULTRAWIDE", price: "R$1.890,00" },
     { code: "LC0118", title: "MONITOR GAMER DUEX FLY 32' POL, PRO GAMER, 240HZ, CURVO", price: "R$1.990,00" },
     { code: "LC0117", title: "MONITOR GAMER DUEX ULTRAWIDE, 34' POL., 180HZ", price: "R$2.890,00" },
-    { code: "LC0000", title: "MONITOR DUEX ULTRAWIDE, 49\" POL., CURVO, 165HZ", price: "R$5.890,00" }
+    { code: "LC0000", title: "MONITOR DUEX ULTRAWIDE, 49' POL., CURVO, 165HZ", price: "R$5.890,00" }
   ];
 
   const gpus = [
@@ -138,10 +138,7 @@
       <button on:click={toggle}>↕ Hardware</button>
       <div class="dropdown-content {open ? 'show' : ''}">
         <a href="hardware/cpu">Processadores</a>
-        <a href="hardware/watercooler">Watercooler</a>
-        <a href="hardware/motherboard">Placa Mãe</a>
         <a href="hardware/cabinet">Gabinetes</a>
-         <a href="hardware/gpu">Placas de Vídeo</a>
 
       </div>
     </div>
