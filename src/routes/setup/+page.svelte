@@ -48,70 +48,70 @@
         // R$3.090,00
     {
       title: "RYZEN 3 2200G PRO SETUP COMPLETO",
-      image: "PC0014.png",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n🚔 GTA SA\n💥 LEAGUE OF LEGENDS\n🌎 TERARRIA\n🛀​ THE SIMS 4\n✨​ GENSHIN IMPACT\n🔫 VALORANT\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 3 2200G PRO\n*Memória RAM:* 8GB DDR4\n*Placa de Vídeo:* VEGA 8 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n\n + 🖥️ Monitor de 19' Pol.\n + ⌨️ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$3.090,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
         
         // R$3.290,00
     {
       title: "RYZEN 3 3200G SETUP COMPLETO",
-      image: "PC0014.png",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n🚔 GTA SA\n💥 LEAGUE OF LEGENDS\n🌎 TERARRIA\n🛀​ THE SIMS 4\n✨​ GENSHIN IMPACT\n🔫 VALORANT\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 3 3200G\n*Memória RAM:* 8GB DDR4\n*Placa de Vídeo:* VEGA 8 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n\n + 🖥️ Monitor de 19' Pol.\n + ⌨️ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$3.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
     
         // R$3.590,00
     {
       title: "RYZEN 5 3400G SETUP COMPLETO",
-      image: "PC0014.png",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n🚔 GTA SA\n💥 LEAGUE OF LEGENDS\n🌎 TERARRIA\n🛀​ THE SIMS 4\n✨​ GENSHIN IMPACT\n🔫 VALORANT\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 3400G\n*Memória RAM:* 8GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n\n + 🖥️ Monitor de 19' Pol.\n + ⌨️ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$4.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
         
         // R$4.290,00
     {
       title: "RYZEN 5 5600GT SETUP COMPLETO",
-      image: "PC0014.png",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n🚔 GTA SA\n💥 LEAGUE OF LEGENDS\n🌎 TERARRIA\n🛀​ THE SIMS 4\n✨​ GENSHIN IMPACT\n🔫 VALORANT\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5600GT\n*Memória RAM:* 8GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n\n + 🖥️ Monitor de 19' Pol.\n + ⌨️ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$4.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
     
         // R$4.690,00
     {
       title: "RYZEN 5700G SETUP COMPLETO",
-      image: "PC0004.png",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n🚔 GTA SA\n💥 LEAGUE OF LEGENDS\n🌎 TERARRIA\n🛀​ THE SIMS 4\n✨​ GENSHIN IMPACT\n🔫 VALORANT\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 7 5700g\n*Memória RAM:* 8GB DDR4\n*Placa de Vídeo:* VEGA 7 (INTEGRADO)\n*Armazenamento:* SSD 240GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n\n + 🖥️ Monitor de 19' Pol.\n + ⌨️ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 4.690,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
         // R$5.990,00
     {
       title: "RYZEN 5 5500 RX580 SETUP COMPLETO",
-      image: "PC0004.png",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎 Red Dead Redemption 2\n ⚔️ Elden Ring\n\n*Placa Mãe:* A520\n*Processador:* RYZEN 5 5500\n*Memória RAM:* 2x8GB(16GB) DDR4\n*Placa de Vídeo:*  RX580 8GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n\n + 🖥️ Monitor de 19' Pol.\n + ⌨️ Kit Gamer(Teclado, Mouse, Mousepad e Headset)\n\nPOR APENAS *R$ 5.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
         // R$ 6.790,00
     {
-      title: "(PC0066) SETUP RYZEN 5500 + RTX 3050 6GB",
-      image: "PC0066.png",
+      title: "SETUP RYZEN 5500 + RTX 3050 6GB",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎 Red Dead Redemption 2\n ⚔️ Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB DDR4(16GB)\n*Placa de Vídeo:* RTX 3050 6GB\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n\n + 🖥️ MONITOR 19' Pol.\n + ⌨️ KIT Gamer Completo(Teclado, Headset, Mouse e Mousepad)\n\nPOR APENAS *R$ 6.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
         // R$ 7.290,00
     {
-      title: "(PC00) SETUP RYZEN 5500 + RTX 2060 SUPER",
-      image: "PC0066.png",
+      title: "SETUP RYZEN 5500 + RTX 2060 SUPER",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎 Red Dead Redemption 2\n ⚔️ Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB DDR4(16GB)\n*Placa de Vídeo:* RTX 2060 SUPER\n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 500W\n\n + 🖥️ MONITOR 19' Pol.\n + ⌨️ KIT Gamer Completo(Teclado, Headset, Mouse e Mousepad)\n\nPOR APENAS *R$ 7.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
         // R$ 7.990,00
     {
-      title: "(PC0056) SETUP RYZEN 5500 + RTX 5050 8GB ",
-      image: "PC0056.png",
+      title: "SETUP RYZEN 5500 + RTX 5050 8GB ",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎 Red Dead Redemption 2\n ⚔️ Elden Ring\n\n*Processador:* RYZEN 5 5500\n*Placa Mãe:* A520\n*Memória RAM:* 2x8GB (16GB) DDR4\n*Placa de Vídeo:* RTX 5050 8GB \n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 700W 80Plus\n\n + 🖥️ MONITOR 19' Pol. VX PRO\n + ⌨️ KIT Gamer Completo(Teclado, Headset, Mouse e Mousepad)\n\nPOR APENAS *R$ 7.990,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
         // R$ 9.290,00
     {
       title: "SETUP RYZEN 5700X + RTX 5060 8GB ",
-      image: "PCSetup-AMD.png",
+      image: "SETUP1.png",
       text: "*Setup ideal para Jogos como:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 WARZONE\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎 Red Dead Redemption 2\n ⚔️ Elden Ring\n\n*Processador:* RYZEN 7 5700X\n*Placa Mãe:* B450\n*Memória RAM:* 2x8GB (16GB) DDR4\n*Placa de Vídeo:* RTX 5060 8GB \n*Armazenamento:* SSD 480GB\n*Gabinete:* GAMER LED C/3 FANS RGB\n*Fonte:* 700W 80Plus\n\n + 🖥️ MONITOR 19' Pol. VX PRO\n + ⌨️ KIT Gamer Completo(Teclado, Headset, Mouse e Mousepad)\n\nPOR APENAS *R$ 9.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
   ]
