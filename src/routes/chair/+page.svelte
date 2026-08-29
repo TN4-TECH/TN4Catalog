@@ -38,25 +38,25 @@
     },
 
     //R$1.190,00
-    {
-      title: "(CA0053) CADEIRA GAMER KALKAN AESIR KLK027",
-      image: "CA0053.png",
-      text: "*CADEIRA GAMER KALKAN AESIR KLK027*\n\nEspecificações: \n- Altura do encosto (cm): 84CM \n- Largura do assento (cm): Interna 39 / Externa 53 \n- Materiais: Corino e espuma de alta densidade\n- Peso suportado: 12 0kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "(CA0053) CADEIRA GAMER KALKAN AESIR KLK027",
+      //image: "CA0053.png",
+      //text: "*CADEIRA GAMER KALKAN AESIR KLK027*\n\nEspecificações: \n- Altura do encosto (cm): 84CM \n- Largura do assento (cm): Interna 39 / Externa 53 \n- Materiais: Corino e espuma de alta densidade\n- Peso suportado: 12 0kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
     //R$1.190,00
-    {
-      title: "(CA0049) CADEIRA GAMER MYMAX MX5 AZUL/BRANCO",
-      image: "CA0049.png",
-      text: "*CADEIRA GAMER MYMAX MX5 AZUL/BRANCO*\n\nEspecificações: \n- Altura do encosto (cm): 85CM \n- Largura do assento: Interna 34 / Externa 53\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "(CA0049) CADEIRA GAMER MYMAX MX5 AZUL/BRANCO",
+      //image: "CA0049.png",
+      //text: "*CADEIRA GAMER MYMAX MX5 AZUL/BRANCO*\n\nEspecificações: \n- Altura do encosto (cm): 85CM \n- Largura do assento: Interna 34 / Externa 53\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
     //R$1.190,00
-    {
-      title: "(CA0037) CADEIRA GAMER MX7 PRETO/ROSA",
-      image: "CA0037.png",
-      text: "*CADEIRA GAMER MX7 PRETO/ROSA*\n\nEspecificações: \n- Altura do encosto (cm): 82CM \n- Largura do Interna: 34CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "(CA0037) CADEIRA GAMER MX7 PRETO/ROSA",
+      //image: "CA0037.png",
+      //text: "*CADEIRA GAMER MX7 PRETO/ROSA*\n\nEspecificações: \n- Altura do encosto (cm): 82CM \n- Largura do Interna: 34CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
     //R$1.190,00
     {
@@ -73,32 +73,32 @@
     },
 
     //R$1.190,00
-    {
-      title: "(CA0063) CADEIRA GAMER MYMAX MX5 PRETO/VERMELHO",
-      image: "CA0063.png",
-      text: "*CADEIRA GAMER MYMAX MX5 PRETO/VERMELHO*\n\nEspecificações: \n- Altura do encosto (cm): 83CM \n- Largura do Interna: 34CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "(CA0063) CADEIRA GAMER MYMAX MX5 PRETO/VERMELHO",
+      //image: "CA0063.png",
+      //text: "*CADEIRA GAMER MYMAX MX5 PRETO/VERMELHO*\n\nEspecificações: \n- Altura do encosto (cm): 83CM \n- Largura do Interna: 34CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
     //R$1.190,00
-    {
-      title: "(CA0034) CADEIRA GAMER MYMAX MX7 PRETO/DOURADO",
-      image: "CA0034.png",
-      text: "*CADEIRA GAMER MYMAX MX7 PRETO/DOURADO*\n\nEspecificações: \n- Altura do encosto (cm): 82CM \n- Largura do Interna: 34CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "(CA0034) CADEIRA GAMER MYMAX MX7 PRETO/DOURADO",
+      //image: "CA0034.png",
+      //text: "*CADEIRA GAMER MYMAX MX7 PRETO/DOURADO*\n\nEspecificações: \n- Altura do encosto (cm): 82CM \n- Largura do Interna: 34CM\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.190,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
     //R$1.290,00
-    {
-      title: "(CA0045) CADEIRA GAMER MYMAX MX15 PRETO/AZUL",
-      image: "CA0045.png",
-      text: "*CADEIRA GAMER MYMAX MX15 PRETO/AZUL*\n\nEspecificações: \n- Altura do encosto (cm): 89CM \n- Largura do Assento: Interna: 32CM, Externa: 51cm\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "(CA0045) CADEIRA GAMER MYMAX MX15 PRETO/AZUL",
+      //image: "CA0045.png",
+      //text: "*CADEIRA GAMER MYMAX MX15 PRETO/AZUL*\n\nEspecificações: \n- Altura do encosto (cm): 89CM \n- Largura do Assento: Interna: 32CM, Externa: 51cm\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 150kg\n\nPor apenas *R$1.290,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
     //R$1.390,00
-    {
-      title: "(CA0055) CADEIRA GAMER PCYES MAD RACER V8 TURBO AMARELA",
-      image: "CA0055.png",
-      text: "*CADEIRA GAMER PCYES MAD RACER V8 TURBO AMARELA*\n\nEspecificações: \n- Altura do encosto (cm): 89CM \n- Largura do Assento: Interna: 37CM, Externa: 58cm\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 120kg\n\nPor apenas *R$1.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "(CA0055) CADEIRA GAMER PCYES MAD RACER V8 TURBO AMARELA",
+      //image: "CA0055.png",
+      //text: "*CADEIRA GAMER PCYES MAD RACER V8 TURBO AMARELA*\n\nEspecificações: \n- Altura do encosto (cm): 89CM \n- Largura do Assento: Interna: 37CM, Externa: 58cm\n- Materiais: Estofamento em tecido sintético PU e Estrutura Metálica\n- Peso suportado: 120kg\n\nPor apenas *R$1.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
     //R$1.390,00
     {
@@ -108,11 +108,11 @@
     },
 
     //R$1.490,00
-    {
-      title: "(CA0065) CADEIRA GAMER PCYES SENTINEL, RED MAGMA",
-      image: "CA0065.png",
-      text: "*CADEIRA GAMER PCYES SENTINEL, RED MAGMA*\n\nEspecificações: \n- Altura do encosto (cm): 87CM \n- Largura do Assento: 56CM\n- Materiais: PU (couro sintetico) + tecido mesh E estrutura de ferro + espuma injetada D45\n- Peso suportado: 150kg\n\nPor apenas *R$1.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "(CA0065) CADEIRA GAMER PCYES SENTINEL, RED MAGMA",
+      //image: "CA0065.png",
+      //text: "*CADEIRA GAMER PCYES SENTINEL, RED MAGMA*\n\nEspecificações: \n- Altura do encosto (cm): 87CM \n- Largura do Assento: 56CM\n- Materiais: PU (couro sintetico) + tecido mesh E estrutura de ferro + espuma injetada D45\n- Peso suportado: 150kg\n\nPor apenas *R$1.490,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
     //R$1.490,00
     {

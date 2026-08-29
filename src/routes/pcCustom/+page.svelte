@@ -4,18 +4,18 @@
   const products = [
 
    // R$2.790,00
-    {
-      title: "i5 de 11ª (Gamdias)",
-      image: "I5-11500(GAMDIAS).png",
-      text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I5-11500 (11° GEN)\n*Placa Mãe:* LGA 1200 GIGABYTE\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler*\n*Armazenamento:* NVME 256GB\n*Gabinete:*GAMDIAS AURA BRANCO C/3 FANS RGB\n*Fonte:* 500W\n\n*R$ 2.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
+    //{
+      //title: "i5 de 11ª (Gamdias)",
+      //image: "I5-11500(GAMDIAS).png",
+      //text: "*Máquina ideal para Jogos como:* \n🚔 GTA 5/RP\n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚗 FORZA HORIZON\n🔫 VALORANT\n🔫 CS2\n🦙 FORTNITE\n\n*Processador:* I5-11500 (11° GEN)\n*Placa Mãe:* LGA 1200 GIGABYTE\n*Memória RAM:* 2x8GB(16GB)\n*Air Cooler*\n*Armazenamento:* NVME 256GB\n*Gabinete:*GAMDIAS AURA BRANCO C/3 FANS RGB\n*Fonte:* 500W\n\n*R$ 2.790,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    //},
 
      // R$ 3.390,00
-    {
-      title: "PC GAMER ROSA RYZEN 3",
-      image: "CUSTOM3390.png",
-      text: "*Máquina ideal para Jogos como:* \n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚔 GTA 5/RP\n🔫 VALORANT\n\n*Processador:* RYZEN 3 3200G\n*Placa Mãe:* A520 REVENGER\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 480GB\n*Fonte:* 500W\n*Gabinete:* MYMAX TAURUS ROSA\n\nPOR APENAS *R$ 3.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
-    },
+    //{
+      //title: "PC GAMER ROSA RYZEN 3",
+      //image: "CUSTOM3390.png",
+      //text: "*Máquina ideal para Jogos como:* \n💥 LEAGUE OF LEGENDS\n🌎 MINECRAFT\n🚔 GTA 5/RP\n🔫 VALORANT\n\n*Processador:* RYZEN 3 3200G\n*Placa Mãe:* A520 REVENGER\n*Memória RAM:* 8GB DDR4\n*Armazenamento:* SSD 480GB\n*Fonte:* 500W\n*Gabinete:* MYMAX TAURUS ROSA\n\nPOR APENAS *R$ 3.390,00* em até 10x sem juros!\n\n*Formas de Pagamento:*\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
+    //},
 
     // R$6.290,00
     {
@@ -67,11 +67,11 @@
 
    // R$ 12.590,00
 
-    {
-      title: "PC DELTA VERDE RYZEN 5500 + RTX 5050",
-      image: "CUSTOM12590.png",
-      text: "*Máquina ideal para:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5500\n*Placa Mãe:* B550M ASUS TUF GAMING\n*Cooler:* WATER COOLER 360MM SEGOTEP\n*Memória RAM:* 2X16GB (32GB) DDR4 BRANCA XPG\n*Placa de Vídeo:* RTX 5050 8GB\n*Armazenamento:* NVME 1TB\n*Fonte:* 700W 80PLUS\n*Gabinete:* DELTA VERDE C/3 FANS\n\nPOR APENAS *R$ 12.590,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
-    },
+    //{
+      //title: "PC DELTA VERDE RYZEN 5500 + RTX 5050",
+      //image: "CUSTOM12590.png",
+      //text: "*Máquina ideal para:* \n💥 FREE FIRE\n⚽ EA FC 26\n🔫 VALORANT\n🚔 GTA 5/RP\n🔫 CS2\n🦙 FORTNITE\n 🐎Red Dead Redemption 2\n🗡Elden Ring\n\n*Processador:* RYZEN 5500\n*Placa Mãe:* B550M ASUS TUF GAMING\n*Cooler:* WATER COOLER 360MM SEGOTEP\n*Memória RAM:* 2X16GB (32GB) DDR4 BRANCA XPG\n*Placa de Vídeo:* RTX 5050 8GB\n*Armazenamento:* NVME 1TB\n*Fonte:* 700W 80PLUS\n*Gabinete:* DELTA VERDE C/3 FANS\n\nPOR APENAS *R$ 12.590,00* em até 10x sem juros!\n\nFormas de Pagamento:\n💳 Cartão - Débito à vista ou Crédito em até 10x *SEM JUROS*\n❖ Pix á Vista\n❌ NÃO aceitamos pagamento via boleto bancário\n❌ NÃO geramos link de pagamento",
+    //},
 
 
 
