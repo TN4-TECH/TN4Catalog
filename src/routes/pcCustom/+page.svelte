@@ -88,7 +88,6 @@
 <div class="p-8">
   <a href="/"> ⬅ Home</a>
   <span> | </span>
-  <a href="/intel">PC</a>
   <h1 class="text-xl font-bold mb-4">🖌 PCs Personalizados</h1>
   <div class="grid grid-cols-4 gap-8">
     {#each products as product, index}

@@ -7,8 +7,8 @@
 
   //R$ 1.890,00 
     { 
-      title: "(NT0051)  NOTEBOOK HP I5 6ªGEN ",
-      image: "NT0051.png",
+      title: "(NT0026)  NOTEBOOK HP I5 6ªGEN ",
+      image: "NT0026.png",
       text: "💻 NOTEBOOK HP I5 6ªGEN\n\n*Processador:* i5 (6ªGEN)\n*Memória RAM:* 8GB DDR4 \n*Armazenamento:* SSD DE 256GB\n*Tela:* 14' POL.\n(Acompanha Fonte)\n\n*POR APENAS R$  1.890,00 * em até 10x sem juros!\n\n*PROPOSTA VÁLIDA POR 48 HORAS, SUJEITA A ALTERAÇÃO DE VALOR*",
     },
 
